@@ -596,7 +596,7 @@ window.CFP_DATA = {
      "source": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
      "summary": [
       "총 90학점. Major 42 + Inquiry 9 + Minor 12 + Foundation 6 + Elective 6 + Dissertation 15.",
-      "Major 42 = IST Core 18 (R690, R695×4, R711) + IST Electives 24(박사 자문위원회가 승인하는 IST 대학원 과목; 특정 과목 지정 없음).",
+      "Major 42 = IST Core 18 (R690, R695×4, R711) + IST Electives 24(박사 자문위원회가 승인하는 IST 대학원 과목; 불레틴은 특정 과목을 지정하지 않으며, 카탈로그의 IST 과목 23개를 후보 풀로 아래에 정리).",
       "Inquiry 9학점은 위원회 승인 시 inquiry 정책에 따라 대체 가능.",
       "Minor 12학점: 주전공과 보완적이어야 하며 전공(IST) 과목은 사용 불가. 학제간·개별 minor는 Request for Individualized Minor eDoc 승인 필요.",
       "Foundation 6학점: IST 외 교육대학 과목(주로 교육심리·교육기초). Elective 6학점: 위원회가 승인한 대학원 과목."
@@ -1121,8 +1121,3654 @@ window.CFP_DATA = {
       {
        "title": "IST Electives (Major)",
        "credits": "24",
-       "note": "특정 과목 미지정 — 박사 자문위원회가 승인하는 IST 대학원 과목.",
-       "courses": []
+       "note": "불레틴은 특정 과목을 지정하지 않고 '박사 자문위원회가 승인하는 IST 대학원 과목'이라고만 적습니다. 아래는 IU 카탈로그에 등재된 IST(EDUC-R) 과목 전체 후보 풀(필수 5과목 제외)이며, 이 중 무엇이 인정되는지는 자문위원회 승인에 달려 있습니다. R 5xx는 석사 수준 과목도 포함하므로 박사 선택 인정 범위는 위원회 확인이 필요합니다.",
+       "courses": [
+        {
+         "code": "EDUC-R 505",
+         "title": "Workshop in Instructional Systems Technology (Variable Title)",
+         "cr": "1–6",
+         "descEn": "Topical workshops on selected media/technology emphasizing hands-on experience. Content will vary; e.g. multi-image, microcomputers, simulations/games. This is a service course that may or may not be applicable to IST majors depending on workshop topic and content.",
+         "descKo": "선별된 미디어·기술에 대한 실습 중심 주제별 워크숍. 내용은 학기마다 다름(예: 멀티이미지, 마이크로컴퓨터, 시뮬레이션/게임). 서비스 과목으로, 워크숍 주제와 내용에 따라 IST 전공 학점으로 인정되지 않을 수 있음.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 2023-01-01. 카탈로그 자체가 'IST 전공에 적용될 수도, 안 될 수도 있다'고 명시한 과목.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Pagan J"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Watson C",
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Kirkley J"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Kirkley J"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Wang Y"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Wang Y"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Wang Y"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Leusen P"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Strycker J"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Easterling W"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Boling E",
+             "Callison M"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Easterling W"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Easterling W"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Exter M"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Korkmaz N",
+             "Callison M"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Callison M"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Callison M"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Sabir N"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Hogaboam P",
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": []
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Leftwich A",
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Boling E",
+             "Karlin M"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Boling E",
+             "Karlin M"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 511",
+         "title": "Instructional and Performance Technologies Foundations I",
+         "cr": "3",
+         "descEn": "Introduction to the field, theory, and profession of instructional and human performance technologies, including definitions, history of the field, and current trends and issues. Includes participation in discussions devoted to broadening understanding of instructional and human performance technology field and career opportunities.",
+         "descKo": "교수공학·인간수행공학 분야, 이론, 직업에 대한 입문. 정의, 분야의 역사, 현재 동향과 쟁점 포함. 분야와 진로 기회에 대한 이해를 넓히는 토론 참여 포함.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2014-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Molenda M"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Molenda M"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": []
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": []
+           },
+           {
+            "term": "Summer 2006",
+            "names": []
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": []
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Leftwich A"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Leftwich A",
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Cho Y",
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Osman G"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Watson C"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Watson C"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Watson C",
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Watson C"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Watson C"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Watson C"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Treff M"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Myers R",
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Van Leusen P",
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Treff M"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Treff M"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Treff M"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Myers R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Jung J"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Karlin M"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Bonk C"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 519",
+         "title": "Effective Writing in Instructional Technology",
+         "cr": "3",
+         "descEn": "The major emphasis of the course is reader-centered writing in the creation of instructional materials. Additionally, students will develop skills in writing business as well as technical proposals and reports using suitably direct and simple language.",
+         "descKo": "교수 자료 제작에서의 독자 중심 글쓰기가 핵심. 직접적이고 간결한 언어로 업무용·기술 제안서와 보고서를 쓰는 기술도 기름.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1993-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Bichelmeyer B"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Watson C"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Bichelmeyer B",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Glazewski K"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 521",
+         "title": "Instructional Design and Development I",
+         "cr": "3",
+         "descEn": "Introduces the instructional systems development process, from analysis through evaluation and implementation, and includes practice in all phases. Emphasizes design issues such as classification of learning tasks, selection of instructional strategies, and development of prototypes. Students practice the design of effective and appealing instruction based on principles from instructional theory.",
+         "descKo": "분석부터 평가·실행까지 교수체제개발 과정을 소개하고 모든 단계를 실습. 학습과제 분류, 교수전략 선택, 프로토타입 개발 등 설계 쟁점을 강조. 교수이론 원리에 기반한 효과적이고 매력적인 수업 설계를 연습.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2001-05-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Brush T",
+             "Bichelmeyer B"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Knuth R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Boling E",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Hubbard L"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Gilmore E",
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Gilmore E",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Glazewski K",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Glazewski K",
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Van Leusen P"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Kwon K",
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Kwon K",
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Kwon K",
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Anderson G"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Anderson G"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Ozogul G"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 541",
+         "title": "Instructional Development and Production Process I",
+         "cr": "3",
+         "descEn": "Given a design plan for a simple interactive product, student teams are introduced to the entire multimedia production process. Emphasizes basic skills in writing, graphic design, interface design, scripting, prototyping, editing, formative evaluation, quality assurance and complementary teamwork. Laboratory use of text, still image, authoring and presentation software.",
+         "descKo": "단순한 상호작용 제품의 설계안을 바탕으로 학생 팀이 멀티미디어 제작 전 과정을 경험. 글쓰기, 그래픽·인터페이스 설계, 스크립팅, 프로토타이핑, 편집, 형성평가, 품질보증, 팀워크의 기초 기술 강조. 텍스트·정지이미지·저작·프레젠테이션 소프트웨어 실습.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2020-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Boling E",
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Appelman R",
+             "Osman G",
+             "Leftwich A"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Appelman R",
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Appelman R",
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Boling E",
+             "Richter K"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Glazewski K",
+             "Beriswill J"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Glazewski K",
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Myers R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Kwon K",
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Kwon K",
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Van Leusen P"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Van Leusen P"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Karlin M"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 542",
+         "title": "Instructional Graphics Design",
+         "cr": "3",
+         "descEn": "Introduction to instructional graphics design. Promotes visual thinking and problem solving with an emphasis on multimedia based applications for instructional learning environments. Focuses on message design principles, specifically as they relate to graphic design. Explores the philosophy and use of appropriate technology.",
+         "descKo": "교수용 그래픽 디자인 입문. 멀티미디어 기반 학습환경 응용을 중심으로 시각적 사고와 문제해결을 촉진. 그래픽 디자인과 관련된 메시지 설계 원리에 초점. 적정 기술의 철학과 활용을 탐구.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1993-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Smith K"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Boling E"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 546",
+         "title": "Instructional Techniques to Facilitate Thinking, Collaboration, and Motivation",
+         "cr": "3",
+         "descEn": "Students in this course will learn how to develop learning environments that stimulate critical thinking and creativity, and that promote cooperative learning and motivation. To highlight method similarities and differences and to link theory to practice in each area, scientifically researched strategies and programs will be illustrated through hands-on activities.",
+         "descKo": "비판적 사고와 창의성을 자극하고 협동학습과 동기를 촉진하는 학습환경을 개발하는 방법을 배움. 각 영역에서 방법의 유사점·차이점을 부각하고 이론을 실천에 연결하기 위해, 과학적으로 연구된 전략과 프로그램을 실습 활동으로 예시.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2006-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Bonk C"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 547",
+         "title": "Computer Mediated Learning",
+         "cr": "3",
+         "descEn": "Intermediate level course on design, development and formative evaluation of computer assisted instruction (CAI) programs. Instructional design strategies based on research on effective CAI are emphasized. Students use CAI software development tools to create and evaluate interactive lessons including questions for assessing learning achievement.",
+         "descKo": "컴퓨터 보조 수업(CAI) 프로그램의 설계·개발·형성평가를 다루는 중급 과목. 효과적인 CAI 연구에 기반한 교수설계 전략 강조. CAI 개발 도구로 학습성취 평가 문항을 포함한 상호작용 수업을 만들고 평가.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1993-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2005",
+            "names": []
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Lara M"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Lara M"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Lara M"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Myers R"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Van Leusen P"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Jung J"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Karlin M"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 551",
+         "title": "Learning in Organizations",
+         "cr": "3",
+         "descEn": "Centers on theories, frameworks, models, and cases for learning in organizations to support workplace learning and performance improvement. Organizational learning, learning organizations, organizational knowledge, and knowledge management are covered as key elements of learning in organizations.",
+         "descKo": "일터 학습과 수행 개선을 지원하는 조직 내 학습의 이론·틀·모형·사례 중심. 조직학습, 학습조직, 조직 지식, 지식경영을 조직 내 학습의 핵심 요소로 다룸.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2014-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Cho Y"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 561",
+         "title": "Evaluation and Change in the Instructional Development Process",
+         "cr": "3",
+         "descEn": "Focuses on evaluation of instructional products as they are developed during each major stage of the instructional systems development process. Also focuses on change theory and principles as they relate to adoption and use of instructional products.",
+         "descKo": "교수체제개발의 각 주요 단계에서 개발되는 교수 산출물의 평가에 초점. 교수 산출물의 채택·사용과 관련된 변화 이론과 원리도 다룸.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1994-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Knuth R",
+             "Cullen T"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Knuth R"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Pershing J",
+             "Knuth R"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Knuth R"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Pershing J",
+             "Knuth R"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Osman G"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Cho Y",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Gilmore E"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Cho Y",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Cho Y",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Roma C"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Cho Y",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Roma C"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Flores C"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Ozogul G",
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Ozogul G",
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Brush T"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 586",
+         "title": "Practicum in IST",
+         "cr": "1–3",
+         "descEn": "The development of practical competencies in such components of instructional technology as development, production, materials evaluation, and project management and implementation. One credit hour requires approximately 48 hours of laboratory and/or independent work.",
+         "descKo": "개발, 제작, 자료 평가, 프로젝트 관리·실행 등 교수공학 구성요소의 실무 역량 개발. 1학점당 약 48시간의 실습·독립 작업 필요.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 1993-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Appelman R",
+             "Boling E",
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Appelman R",
+             "Boling E",
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Appelman R",
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Appelman R",
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": []
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 590",
+         "title": "Independent Study or Research in Instructional System Technology",
+         "cr": "1–3",
+         "descEn": "Individual research or study with an IST faculty member, arranged in advance of registration. A one- or two-page written proposal should be submitted to the instructor during the first week of the term. Ordinarily, R590 should not be used for the study of material taught in a regularly scheduled course.",
+         "descKo": "등록 전에 협의해 IST 교수와 진행하는 개별 연구·학습. 학기 첫 주에 1–2쪽 분량의 계획서 제출. 정규 개설 과목에서 가르치는 내용의 학습에는 보통 사용하지 않음.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 2008-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": []
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 620",
+         "title": "Task & Process Analysis for Performance Improvement",
+         "cr": "3",
+         "descEn": "Examination of the principles and practices used in the analysis of various processes and tasks in organizational settings. Study of task configurations, taxonomies for task classifications and task sequencing related to jobs and work processes. Particular emphasis is placed on job analysis including procedural task analysis, systems task analysis, and knowledge task analysis.",
+         "descKo": "조직 환경의 다양한 과정·과제 분석에 쓰이는 원리와 실천을 검토. 직무·업무 과정과 관련된 과제 구성, 과제 분류 체계, 과제 계열화를 학습. 절차적·체제적·지식 과제분석을 포함한 직무분석을 특히 강조.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2013-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Davies I"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Brush T"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 621",
+         "title": "Analysis for Instruction and Performance Improvement",
+         "cr": "3",
+         "descEn": "Centers on concepts, cases, and practices of analyzing needs in organizations. The identification of needs is a starting point for organizational and instructional development activities. The process of conducting needs analysis has a greater impact on performance improvement by attending to the context in the organization.",
+         "descKo": "조직의 요구분석 개념·사례·실천 중심. 요구 규명은 조직·교수 개발 활동의 출발점이며, 조직 맥락에 주의를 기울이는 요구분석 과정이 수행 개선에 더 큰 영향을 줌.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 2014-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Schwen T"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Schwen T"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Bichelmeyer B"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Bichelmeyer B"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Haynes R",
+             "Brush D"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Brush T"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 622",
+         "title": "Learning Environments Design",
+         "cr": "3",
+         "descEn": "Principles and practice of environmental design. Study of interrelationships among environmental variables. Use of decision models in the design process. Design, construction, and testing of learning environments representing alternative profiles of variables.",
+         "descKo": "환경 설계의 원리와 실천. 환경 변수 간 상호관계를 학습하고 설계 과정에서 의사결정 모형을 활용. 변수의 다양한 조합을 대표하는 학습환경을 설계·구축·검증.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1993-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Appelman R"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Parker C"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Parker C"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 625",
+         "title": "Designing Instructional Systems",
+         "cr": "3",
+         "descEn": "An advanced course in instructional development. Students work in small groups to solve real or simulated instructional problems of substantial scope. Requires application of principles of planning, analysis, design, production, evaluation, implementation, and management. Design decisions derive from theory and research.",
+         "descKo": "교수개발 고급 과목. 소집단으로 상당한 규모의 실제 또는 모의 교수 문제를 해결. 계획·분석·설계·제작·평가·실행·관리 원리를 적용하며, 설계 결정은 이론과 연구에서 도출.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1994-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Haynes R"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Roma C"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Honebein P"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 626",
+         "title": "Instructional Strategies and Tactics",
+         "cr": "3",
+         "descEn": "This advanced instructional design course builds on R521, and focuses on instructional theories and application of instructional strategies and tactics. The course deepens students' understanding of theories and supports practices for creatively generating and applying instructional strategies and tactics that facilitate learning in diverse contexts and for diverse audiences.",
+         "descKo": "R521을 토대로 하는 고급 교수설계 과목. 교수이론과 교수전략·전술의 적용에 초점. 다양한 맥락과 대상의 학습을 촉진하는 전략·전술을 창의적으로 생성·적용하는 이론 이해와 실천을 심화.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1994-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Reigeluth C",
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Reigeluth C"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Reigeluth C"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Reigeluth C"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Reigeluth C"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Honebein P"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Ozogul G"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Ozogul G"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 641",
+         "title": "Instructional Development and Production Process II",
+         "cr": "3",
+         "descEn": "Given an instructional problem, student teams create a design plan for an interactive product, and complete the instructional development process. Emphasizes intermediate skills in writing, graphic design, interface design, scripting, prototyping, editing, formative evaluation, quality assurance and teamwork. Laboratory use of audio and motion video software.",
+         "descKo": "교수 문제가 주어지면 학생 팀이 상호작용 제품의 설계안을 만들고 교수개발 과정을 완수. 글쓰기, 그래픽·인터페이스 설계, 스크립팅, 프로토타이핑, 편집, 형성평가, 품질보증, 팀워크의 중급 기술 강조. 오디오·동영상 소프트웨어 실습.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 2020-05-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Boling E"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 678",
+         "title": "Emerging Learning Technologies",
+         "cr": "3",
+         "descEn": "Learning technologies are generating waves of opportunities across educational settings and learning environments. Topics include open educational resources, collaborative technologies, digital books, virtual education, adventure learning, mobile learning, and other technologies as they emerge. Includes hands-on tasks with much choice and options.",
+         "descKo": "학습기술이 교육 현장 전반에 새로운 기회를 만들어내고 있음. 개방교육자료, 협업 기술, 디지털 도서, 가상교육, 어드벤처 러닝, 모바일 러닝 등 등장하는 기술을 다룸. 선택 폭이 큰 실습 과제 포함.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 2012-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Bonk C"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 685",
+         "title": "Topical Seminar in Instructional Systems Technology (Variable Title)",
+         "cr": "1–3",
+         "descEn": "Intensive study and discussion of a specific topic of current interest in the theory and/or practice of instructional technology.",
+         "descKo": "교수공학의 이론·실천에서 현재 관심이 높은 특정 주제를 집중적으로 학습·토론.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 2022-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Siegel M",
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Molenda M"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Dormant D"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Dormant D"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Dormant D"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Bichelmeyer B"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Dormant D",
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Pershing J",
+             "Dormant D"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Bonk C"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Leftwich A"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Kwon K"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Leftwich A"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Hitchcock J"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Cho Y"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Kwon K",
+             "Boling E",
+             "Leftwich A"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 686",
+         "title": "Internship in IST",
+         "cr": "3–6",
+         "descEn": "To be completed during the final stages of a degree program. Provides an opportunity for students to gain professional experience in a work situation appropriate to their career goals. Students work in a cooperating agency and in consultation with an IST faculty internship coordinator.",
+         "descKo": "학위과정 마지막 단계에 이수. 진로 목표에 맞는 업무 상황에서 전문 경험을 쌓는 기회. 협력 기관에서 일하며 IST 교수 인턴십 담당자와 상의.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 가능 · 승인 시행일 2021-08-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Pershing J"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Summer 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Summer 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Summer 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Summer 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": []
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 699",
+         "title": "Specialist Project in Instructional Systems Technology",
+         "cr": "1–3",
+         "descEn": "Individual instructional technology project serving as the culminating experience in the specialist degree program. The project will be presented and evaluated at a final meeting with the student's advisory committee.",
+         "descKo": "Specialist(전문가) 학위과정의 최종 경험으로서의 개인 교수공학 프로젝트. 자문위원회와의 최종 모임에서 발표·평가.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1993-08-01. Specialist 학위용 과목이므로 Ph.D. 선택으로 쓸 수 있는지는 자문위원회 판단 사항. 이번 조사에서는 Ph.D. 적용 여부를 확인하지 못함.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Fall 2004-05",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2005",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2006",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2007",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2008",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2009",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Fall 2009",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2010",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2010",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Fall 2011",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Spring 2012",
+            "names": [
+             "Frick T"
+            ]
+           },
+           {
+            "term": "Fall 2013",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2014",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2015",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2015",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2016",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2017",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Spring 2018",
+            "names": [
+             "Brush T"
+            ]
+           },
+           {
+            "term": "Fall 2018",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Glazewski K"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "code": "EDUC-R 741",
+         "title": "Instructional Development and Production III",
+         "cr": "3",
+         "descEn": "Working with a client, student teams conduct the entire instructional design and development process. Emphasizes advanced skills in writing, graphic design, interface design, scripting, prototyping, editing, formative evaluation, quality assurance and teamwork. Laboratory use of multimedia software development tools as required.",
+         "descKo": "클라이언트와 함께 학생 팀이 교수설계·개발 전 과정을 수행. 글쓰기, 그래픽·인터페이스 설계, 스크립팅, 프로토타이핑, 편집, 형성평가, 품질보증, 팀워크의 고급 기술 강조. 필요에 따라 멀티미디어 개발 도구 실습.",
+         "descSrc": "IU Bloomington SoE Graduate Bulletin 2025-2026 (archive)",
+         "syllabi": [],
+         "syllabusNote": "IU 공식 사이트에서 공개된 강의계획서를 찾지 못함. 담당 학과(IST) 또는 강의 담당자에게 문의 필요.",
+         "courseUrl": "https://soegrbul.sites.iu.edu/courses/index.html",
+         "note": "카탈로그: 반복 수강 불가 · 승인 시행일 1994-01-01.",
+         "instructors": {
+          "status": "history",
+          "note": "IU 학사처 Course Browser 아카이브(공식)에 기록된 담당자. 이름은 사이트 표기 그대로(성 + 이름 이니셜). 제공 범위: 2004-05 ~ 2021년 학기. 2022학년도 이후 학기는 공개 아카이브에서 확인하지 못함.",
+          "history": [
+           {
+            "term": "Spring 2019",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2019",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2020",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2020",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Spring 2021",
+            "names": [
+             "Boling E"
+            ]
+           },
+           {
+            "term": "Fall 2021",
+            "names": [
+             "Boling E"
+            ]
+           }
+          ]
+         }
+        }
+       ]
       },
       {
        "title": "Inquiry Requirements",
@@ -1281,7 +4927,8 @@ window.CFP_DATA = {
            {
             "term": "Summer 2011",
             "names": [
-             "Cen Y"
+             "Cen Y",
+             "Wakhungu P"
             ]
            },
            {
@@ -1345,7 +4992,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2015",
-            "names": []
+            "names": [
+             "Mc Queen K"
+            ]
            },
            {
             "term": "Fall 2015",
@@ -1363,12 +5012,13 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2016",
-            "names": []
+            "names": [
+             "Svetina D"
+            ]
            },
            {
             "term": "Fall 2016",
             "names": [
-             "BrckaLorenz A",
              "Lorah J",
              "Svetina D"
             ]
@@ -1381,7 +5031,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2017",
-            "names": []
+            "names": [
+             "Svetina D"
+            ]
            },
            {
             "term": "Fall 2017",
@@ -1393,13 +5045,14 @@ window.CFP_DATA = {
            {
             "term": "Spring 2018",
             "names": [
-             "Qi W",
-             "BrckaLorenz A"
+             "Qi W"
             ]
            },
            {
             "term": "Summer 2018",
-            "names": []
+            "names": [
+             "Svetina D"
+            ]
            },
            {
             "term": "Fall 2018",
@@ -1416,7 +5069,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2019",
-            "names": []
+            "names": [
+             "Svetina D"
+            ]
            },
            {
             "term": "Fall 2019",
@@ -1433,7 +5088,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2020",
-            "names": []
+            "names": [
+             "Svetina D"
+            ]
            },
            {
             "term": "Fall 2020",
@@ -1450,7 +5107,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2021",
-            "names": []
+            "names": [
+             "Svetina D"
+            ]
            },
            {
             "term": "Fall 2021",
@@ -1496,9 +5155,7 @@ window.CFP_DATA = {
            },
            {
             "term": "Spring 2010",
-            "names": [
-             "Datchi-Phillips C"
-            ]
+            "names": []
            },
            {
             "term": "Fall 2010",
@@ -1665,8 +5322,7 @@ window.CFP_DATA = {
             "names": [
              "Ziskin M",
              "Schwen T",
-             "Korth B",
-             "TBA Ziskin M"
+             "Korth B"
             ]
            },
            {
@@ -1688,7 +5344,7 @@ window.CFP_DATA = {
             "term": "Spring 2007",
             "names": [
              "Korth B",
-             "TBA Flinders D"
+             "Flinders D"
             ]
            },
            {
@@ -1715,14 +5371,15 @@ window.CFP_DATA = {
             "names": [
              "Flinders D",
              "Carspecken L",
-             "TBA Ziskin M"
+             "Ziskin M"
             ]
            },
            {
             "term": "Fall 2009",
             "names": [
              "Lackey L",
-             "Carspecken L"
+             "Carspecken L",
+             "Helfenbein Jr R"
             ]
            },
            {
@@ -1749,7 +5406,7 @@ window.CFP_DATA = {
             "term": "Fall 2011",
             "names": [
              "Carspecken L",
-             "TBA Nguyen T"
+             "Nguyen T"
             ]
            },
            {
@@ -1761,11 +5418,15 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2012",
-            "names": []
+            "names": [
+             "Carspecken L"
+            ]
            },
            {
             "term": "Summer 2013",
-            "names": []
+            "names": [
+             "Carspecken L"
+            ]
            },
            {
             "term": "Fall 2013",
@@ -1783,7 +5444,10 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2014",
-            "names": []
+            "names": [
+             "Carspecken L",
+             "Payne E"
+            ]
            },
            {
             "term": "Fall 2014",
@@ -1799,26 +5463,29 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2015",
-            "names": []
+            "names": [
+             "Dennis B",
+             "Carspecken L"
+            ]
            },
            {
             "term": "Fall 2015",
             "names": [
-             "Carspecken L",
-             "Call-Cummings M"
+             "Carspecken L"
             ]
            },
            {
             "term": "Spring 2016",
             "names": [
-             "Call-Cummings M",
              "Flinders D",
              "Lester J"
             ]
            },
            {
             "term": "Summer 2016",
-            "names": []
+            "names": [
+             "Dennis B"
+            ]
            },
            {
             "term": "Fall 2016",
@@ -1837,7 +5504,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2017",
-            "names": []
+            "names": [
+             "Lester J"
+            ]
            },
            {
             "term": "Fall 2017",
@@ -1856,7 +5525,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2018",
-            "names": []
+            "names": [
+             "Lester J"
+            ]
            },
            {
             "term": "Fall 2018",
@@ -1874,7 +5545,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2019",
-            "names": []
+            "names": [
+             "Lester J"
+            ]
            },
            {
             "term": "Fall 2019",
@@ -1891,7 +5564,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2020",
-            "names": []
+            "names": [
+             "Lester J"
+            ]
            },
            {
             "term": "Fall 2020",
@@ -1907,7 +5582,9 @@ window.CFP_DATA = {
            },
            {
             "term": "Summer 2021",
-            "names": []
+            "names": [
+             "Lester J"
+            ]
            },
            {
             "term": "Fall 2021",

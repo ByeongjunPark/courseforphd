@@ -7,6 +7,10 @@ catalog / registrar archive). Anything not found is marked None and rendered as
 import json
 import io
 import re
+import sys
+import os
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 IU_JSON = "iu_instructors.json"
 OUT = "data.js"
@@ -255,6 +259,16 @@ iu_r799 = iu_course("EDUC-R 799", "Doctoral Dissertation in Instructional System
 iu_r799["descSrc"] = IU_SRC
 iu_r799["instructors"] = {"status": "unavailable", "note": "개인 지도교수가 담당하는 논문 과목으로 공개 학기 이력이 없음."}
 
+from iu_electives import ELECTIVES
+
+iu_electives = []
+for code, title, cr, rep, eff, en, ko, extra in ELECTIVES:
+    e = iu_course("EDUC-" + code, title, cr, en, ko, code.replace(" ", ""),
+                  "https://soegrbul.sites.iu.edu/courses/index.html",
+                  note="카탈로그: 반복 수강 %s · 승인 시행일 %s.%s" % ("가능" if rep else "불가", eff, (" " + extra) if extra else ""))
+    e["descSrc"] = IU_SRC
+    iu_electives.append(e)
+
 iu = {
     "id": "iu",
     "short": "IUB",
@@ -267,14 +281,14 @@ iu = {
             "id": "v2526", "label": "2025-26 Graduate Bulletin", "source": IU_SRC,
             "summary": [
                 "총 90학점. Major 42 + Inquiry 9 + Minor 12 + Foundation 6 + Elective 6 + Dissertation 15.",
-                "Major 42 = IST Core 18 (R690, R695×4, R711) + IST Electives 24(박사 자문위원회가 승인하는 IST 대학원 과목; 특정 과목 지정 없음).",
+                "Major 42 = IST Core 18 (R690, R695×4, R711) + IST Electives 24(박사 자문위원회가 승인하는 IST 대학원 과목; 불레틴은 특정 과목을 지정하지 않으며, 카탈로그의 IST 과목 23개를 후보 풀로 아래에 정리).",
                 "Inquiry 9학점은 위원회 승인 시 inquiry 정책에 따라 대체 가능.",
                 "Minor 12학점: 주전공과 보완적이어야 하며 전공(IST) 과목은 사용 불가. 학제간·개별 minor는 Request for Individualized Minor eDoc 승인 필요.",
                 "Foundation 6학점: IST 외 교육대학 과목(주로 교육심리·교육기초). Elective 6학점: 위원회가 승인한 대학원 과목.",
             ],
             "groups": [
                 {"title": "IST Core (Major)", "credits": "18", "courses": [iu_r690, iu_r695, iu_r711]},
-                {"title": "IST Electives (Major)", "credits": "24", "note": "특정 과목 미지정 — 박사 자문위원회가 승인하는 IST 대학원 과목.", "courses": []},
+                {"title": "IST Electives (Major)", "credits": "24", "note": "불레틴은 특정 과목을 지정하지 않고 '박사 자문위원회가 승인하는 IST 대학원 과목'이라고만 적습니다. 아래는 IU 카탈로그에 등재된 IST(EDUC-R) 과목 전체 후보 풀(필수 5과목 제외)이며, 이 중 무엇이 인정되는지는 자문위원회 승인에 달려 있습니다. R 5xx는 석사 수준 과목도 포함하므로 박사 선택 인정 범위는 위원회 확인이 필요합니다.", "courses": iu_electives},
                 {"title": "Inquiry Requirements", "credits": "9", "note": "위원회 승인 하에 inquiry 정책에 따른 대체 가능. 승인된 inquiry 과목 목록은 IU 교육대학 사이트 참조.", "courses": [iu_y502, iu_y521, iu_y611]},
                 {"title": "Minor", "credits": "12", "note": "특정 과목 미지정.", "courses": []},
                 {"title": "Foundation", "credits": "6", "note": "IST 외 교육대학 과목(교육심리·교육기초 등). 특정 과목 미지정.", "courses": []},

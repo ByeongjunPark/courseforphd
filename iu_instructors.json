@@ -1,4 +1,3535 @@
 {
+ "R505": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Pagan J"
+   ],
+   "file": "R505_4048.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R505_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4062.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Watson C",
+    "Pershing J"
+   ],
+   "file": "R505_4065.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4068.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Kirkley J"
+   ],
+   "file": "R505_4072.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R505_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4078.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Kirkley J"
+   ],
+   "file": "R505_4082.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R505_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Wang Y"
+   ],
+   "file": "R505_4088.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Wang Y"
+   ],
+   "file": "R505_4092.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R505_4095.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Wang Y"
+   ],
+   "file": "R505_4098.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Leusen P"
+   ],
+   "file": "R505_4102.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R505_4105.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Strycker J"
+   ],
+   "file": "R505_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Easterling W"
+   ],
+   "file": "R505_4112.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Boling E",
+    "Callison M"
+   ],
+   "file": "R505_4115.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Easterling W"
+   ],
+   "file": "R505_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Easterling W"
+   ],
+   "file": "R505_4122.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Exter M"
+   ],
+   "file": "R505_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Korkmaz N",
+    "Callison M"
+   ],
+   "file": "R505_4135.shtml"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Callison M"
+   ],
+   "file": "R505_4138.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Callison M"
+   ],
+   "file": "R505_4142.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4145.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Sabir N"
+   ],
+   "file": "R505_4148.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Hogaboam P",
+    "Brush T"
+   ],
+   "file": "R505_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4155.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [],
+   "file": "R505_4158.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Leftwich A",
+    "Brush T"
+   ],
+   "file": "R505_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4175.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4178.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4182.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4185.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4192.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4195.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4202.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R505_4205.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Boling E",
+    "Karlin M"
+   ],
+   "file": "R505_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R505_4212.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R505_4215.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Boling E",
+    "Karlin M"
+   ],
+   "file": "R505_4218.shtml"
+  }
+ ],
+ "R511": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Molenda M"
+   ],
+   "file": "R511_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Molenda M"
+   ],
+   "file": "R511_4052.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [],
+   "file": "R511_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R511_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [],
+   "file": "R511_4062.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [],
+   "file": "R511_4065.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R511_4068.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [],
+   "file": "R511_4072.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Leftwich A"
+   ],
+   "file": "R511_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Leftwich A",
+    "Pershing J"
+   ],
+   "file": "R511_4078.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R511_4082.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Beriswill J"
+   ],
+   "file": "R511_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R511_4088.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R511_4092.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Beriswill J"
+   ],
+   "file": "R511_4095.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Cho Y",
+    "Pershing J"
+   ],
+   "file": "R511_4098.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R511_4102.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Osman G"
+   ],
+   "file": "R511_4105.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R511_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Watson C"
+   ],
+   "file": "R511_4112.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Watson C"
+   ],
+   "file": "R511_4115.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Watson C",
+    "Cho Y"
+   ],
+   "file": "R511_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Watson C"
+   ],
+   "file": "R511_4122.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Watson C"
+   ],
+   "file": "R511_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Watson C"
+   ],
+   "file": "R511_4135.shtml"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R511_4138.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R511_4142.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Treff M"
+   ],
+   "file": "R511_4145.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Myers R",
+    "Kwon K"
+   ],
+   "file": "R511_4148.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R511_4155.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Van Leusen P",
+    "Kwon K"
+   ],
+   "file": "R511_4158.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Treff M"
+   ],
+   "file": "R511_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R511_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Treff M"
+   ],
+   "file": "R511_4175.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4178.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R511_4182.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Treff M"
+   ],
+   "file": "R511_4185.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Myers R",
+    "Boling E"
+   ],
+   "file": "R511_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R511_4192.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Jung J"
+   ],
+   "file": "R511_4195.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4198.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Karlin M"
+   ],
+   "file": "R511_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4212.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R511_4218.shtml"
+  }
+ ],
+ "R519": [
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Bichelmeyer B"
+   ],
+   "file": "R519_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Watson C"
+   ],
+   "file": "R519_4058.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Bichelmeyer B",
+    "Boling E"
+   ],
+   "file": "R519_4068.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Beriswill J"
+   ],
+   "file": "R519_4078.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Beriswill J"
+   ],
+   "file": "R519_4088.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R519_4098.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R519_4105.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R519_4108.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R519_4118.html"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R519_4138.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R519_4148.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R519_4158.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R519_4168.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R519_4178.shtml"
+  }
+ ],
+ "R521": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Brush T",
+    "Bichelmeyer B"
+   ],
+   "file": "R521_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R521_4052.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Knuth R",
+    "Boling E"
+   ],
+   "file": "R521_4058.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R521_4065.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R521_4068.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R521_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R521_4078.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Beriswill J"
+   ],
+   "file": "R521_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Boling E",
+    "Haynes R"
+   ],
+   "file": "R521_4088.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Hubbard L"
+   ],
+   "file": "R521_4095.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Gilmore E",
+    "Appelman R"
+   ],
+   "file": "R521_4098.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Gilmore E",
+    "Haynes R"
+   ],
+   "file": "R521_4108.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R521_4115.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Glazewski K",
+    "Haynes R"
+   ],
+   "file": "R521_4118.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R521_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R521_4135.shtml"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Glazewski K",
+    "Ozogul G"
+   ],
+   "file": "R521_4138.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Van Leusen P"
+   ],
+   "file": "R521_4145.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Kwon K",
+    "Ozogul G"
+   ],
+   "file": "R521_4148.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R521_4155.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Kwon K",
+    "Myers R"
+   ],
+   "file": "R521_4158.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R521_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Kwon K",
+    "Myers R"
+   ],
+   "file": "R521_4168.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R521_4175.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R521_4178.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Anderson G"
+   ],
+   "file": "R521_4185.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R521_4188.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Anderson G"
+   ],
+   "file": "R521_4195.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R521_4198.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R521_4208.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R521_4218.shtml"
+  }
+ ],
+ "R541": [
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Boling E",
+    "Appelman R"
+   ],
+   "file": "R541_4052.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R541_4062.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Appelman R",
+    "Osman G",
+    "Leftwich A"
+   ],
+   "file": "R541_4072.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Appelman R",
+    "Beriswill J"
+   ],
+   "file": "R541_4082.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Appelman R",
+    "Beriswill J"
+   ],
+   "file": "R541_4092.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R541_4102.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Boling E",
+    "Richter K"
+   ],
+   "file": "R541_4112.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Glazewski K",
+    "Beriswill J"
+   ],
+   "file": "R541_4122.html"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Glazewski K",
+    "Myers R"
+   ],
+   "file": "R541_4142.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Myers R",
+    "Boling E"
+   ],
+   "file": "R541_4152.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R541_4162.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Kwon K",
+    "Myers R"
+   ],
+   "file": "R541_4172.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Kwon K",
+    "Myers R"
+   ],
+   "file": "R541_4182.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R541_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Van Leusen P"
+   ],
+   "file": "R541_4192.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R541_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Van Leusen P"
+   ],
+   "file": "R541_4202.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Karlin M"
+   ],
+   "file": "R541_4212.shtml"
+  }
+ ],
+ "R542": [
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4055.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4065.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4075.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4085.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4095.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4105.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4115.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4135.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4145.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Smith K"
+   ],
+   "file": "R542_4155.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4185.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4195.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4205.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R542_4215.shtml"
+  }
+ ],
+ "R546": [
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4082.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4092.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4102.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4112.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4122.html"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4148.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4158.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4168.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4178.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4188.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R546_4218.shtml"
+  }
+ ],
+ "R547": [
+  {
+   "term": "Spring 2005",
+   "instructors": [],
+   "file": "R547_4052.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R547_4065.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R547_4075.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R547_4085.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R547_4095.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Lara M"
+   ],
+   "file": "R547_4105.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Lara M"
+   ],
+   "file": "R547_4115.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Lara M"
+   ],
+   "file": "R547_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R547_4135.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Myers R"
+   ],
+   "file": "R547_4145.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R547_4155.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R547_4165.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R547_4175.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Van Leusen P"
+   ],
+   "file": "R547_4185.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Jung J"
+   ],
+   "file": "R547_4195.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R547_4205.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Karlin M"
+   ],
+   "file": "R547_4215.shtml"
+  }
+ ],
+ "R551": [
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R551_4182.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R551_4205.shtml"
+  }
+ ],
+ "R561": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Knuth R",
+    "Cullen T"
+   ],
+   "file": "R561_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R561_4052.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Knuth R"
+   ],
+   "file": "R561_4055.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Pershing J",
+    "Knuth R"
+   ],
+   "file": "R561_4062.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Knuth R"
+   ],
+   "file": "R561_4065.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R561_4072.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R561_4075.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Pershing J",
+    "Knuth R"
+   ],
+   "file": "R561_4082.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Osman G"
+   ],
+   "file": "R561_4085.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Cho Y",
+    "Haynes R"
+   ],
+   "file": "R561_4092.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Gilmore E"
+   ],
+   "file": "R561_4095.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Cho Y",
+    "Haynes R"
+   ],
+   "file": "R561_4102.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Haynes R"
+   ],
+   "file": "R561_4105.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Cho Y",
+    "Haynes R"
+   ],
+   "file": "R561_4112.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Roma C"
+   ],
+   "file": "R561_4115.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Cho Y",
+    "Haynes R"
+   ],
+   "file": "R561_4122.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Roma C"
+   ],
+   "file": "R561_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Flores C"
+   ],
+   "file": "R561_4135.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Ozogul G",
+    "Haynes R"
+   ],
+   "file": "R561_4142.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4145.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Ozogul G",
+    "Brush T"
+   ],
+   "file": "R561_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4155.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4165.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4175.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4182.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4185.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4192.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4195.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4202.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R561_4205.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R561_4212.shtml"
+  }
+ ],
+ "R586": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R586_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R586_4052.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R586_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R586_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R586_4062.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R586_4065.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R586_4068.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Appelman R",
+    "Boling E",
+    "Honebein P"
+   ],
+   "file": "R586_4072.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R586_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R586_4078.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Appelman R",
+    "Boling E",
+    "Honebein P"
+   ],
+   "file": "R586_4082.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R586_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R586_4088.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Appelman R",
+    "Frick T"
+   ],
+   "file": "R586_4092.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R586_4095.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R586_4098.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Appelman R",
+    "Boling E"
+   ],
+   "file": "R586_4102.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R586_4105.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R586_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R586_4112.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R586_4115.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R586_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R586_4122.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R586_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4135.shtml"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4138.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4142.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4145.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4148.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4155.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4158.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4175.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4178.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4182.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R586_4185.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4192.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4195.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4202.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4205.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4212.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R586_4215.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [],
+   "file": "R586_4218.shtml"
+  }
+ ],
+ "R590": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4052.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4062.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4065.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4068.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4072.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4078.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4082.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4088.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4092.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4095.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4098.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4102.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R590_4105.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4112.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4115.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4122.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R590_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4135.shtml"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4138.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4142.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4145.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4148.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4155.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4158.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4175.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4178.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4182.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R590_4185.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4192.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4195.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4202.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4205.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4212.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R590_4215.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [],
+   "file": "R590_4218.shtml"
+  }
+ ],
+ "R620": [
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Davies I"
+   ],
+   "file": "R620_4062.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R620_4072.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Haynes R"
+   ],
+   "file": "R620_4092.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Haynes R"
+   ],
+   "file": "R620_4102.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Haynes R"
+   ],
+   "file": "R620_4112.html"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Haynes R"
+   ],
+   "file": "R620_4142.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R620_4152.shtml"
+  }
+ ],
+ "R621": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Schwen T"
+   ],
+   "file": "R621_4048.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Schwen T"
+   ],
+   "file": "R621_4058.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Bichelmeyer B"
+   ],
+   "file": "R621_4068.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Bichelmeyer B"
+   ],
+   "file": "R621_4078.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4088.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4098.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4108.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4118.html"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4138.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Haynes R",
+    "Brush D"
+   ],
+   "file": "R621_4148.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4158.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4168.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4178.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4188.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R621_4198.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R621_4208.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R621_4218.shtml"
+  }
+ ],
+ "R622": [
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R622_4052.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Appelman R"
+   ],
+   "file": "R622_4058.html"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R622_4188.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Parker C"
+   ],
+   "file": "R622_4208.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Parker C"
+   ],
+   "file": "R622_4218.shtml"
+  }
+ ],
+ "R625": [
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4052.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4058.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4068.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4078.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4088.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Haynes R"
+   ],
+   "file": "R625_4098.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Roma C"
+   ],
+   "file": "R625_4108.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4118.html"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4138.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4148.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4158.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4168.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4178.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4188.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R625_4198.shtml"
+  }
+ ],
+ "R626": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Reigeluth C",
+    "Honebein P"
+   ],
+   "file": "R626_4048.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Reigeluth C"
+   ],
+   "file": "R626_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Reigeluth C"
+   ],
+   "file": "R626_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Reigeluth C"
+   ],
+   "file": "R626_4062.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4072.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4082.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Reigeluth C"
+   ],
+   "file": "R626_4092.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4102.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4112.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4122.html"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4142.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4152.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4162.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4172.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4182.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Honebein P"
+   ],
+   "file": "R626_4192.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R626_4202.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Ozogul G"
+   ],
+   "file": "R626_4215.shtml"
+  }
+ ],
+ "R641": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4048.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R641_4072.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R641_4082.html"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4192.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4202.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4212.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R641_4218.shtml"
+  }
+ ],
+ "R678": [
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R678_4152.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R678_4162.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R678_4172.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R678_4182.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R678_4192.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R678_4202.shtml"
+  }
+ ],
+ "R685": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Siegel M",
+    "Bonk C"
+   ],
+   "file": "R685_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Molenda M"
+   ],
+   "file": "R685_4052.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Dormant D"
+   ],
+   "file": "R685_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4058.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Dormant D"
+   ],
+   "file": "R685_4065.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Dormant D"
+   ],
+   "file": "R685_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4078.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Bichelmeyer B"
+   ],
+   "file": "R685_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Dormant D",
+    "Bonk C"
+   ],
+   "file": "R685_4088.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Pershing J",
+    "Dormant D"
+   ],
+   "file": "R685_4095.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4102.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4112.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Bonk C"
+   ],
+   "file": "R685_4122.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Leftwich A"
+   ],
+   "file": "R685_4135.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R685_4142.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R685_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R685_4155.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Kwon K"
+   ],
+   "file": "R685_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Leftwich A"
+   ],
+   "file": "R685_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Hitchcock J"
+   ],
+   "file": "R685_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R685_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R685_4175.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R685_4192.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R685_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Cho Y"
+   ],
+   "file": "R685_4202.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Kwon K",
+    "Boling E",
+    "Leftwich A"
+   ],
+   "file": "R685_4212.shtml"
+  }
+ ],
+ "R686": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R686_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4052.html"
+  },
+  {
+   "term": "Summer 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4055.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R686_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4062.html"
+  },
+  {
+   "term": "Summer 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4065.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R686_4068.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4072.html"
+  },
+  {
+   "term": "Summer 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4075.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R686_4078.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4082.html"
+  },
+  {
+   "term": "Summer 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4085.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R686_4088.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4092.html"
+  },
+  {
+   "term": "Summer 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4095.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Pershing J"
+   ],
+   "file": "R686_4098.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4102.html"
+  },
+  {
+   "term": "Summer 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R686_4105.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4112.html"
+  },
+  {
+   "term": "Summer 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4115.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4122.html"
+  },
+  {
+   "term": "Summer 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R686_4125.html"
+  },
+  {
+   "term": "Summer 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4135.shtml"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4138.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4142.shtml"
+  },
+  {
+   "term": "Summer 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4145.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4148.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4152.shtml"
+  },
+  {
+   "term": "Summer 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4155.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4158.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4162.shtml"
+  },
+  {
+   "term": "Summer 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4165.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4172.shtml"
+  },
+  {
+   "term": "Summer 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4175.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4178.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4182.shtml"
+  },
+  {
+   "term": "Summer 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R686_4185.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4192.shtml"
+  },
+  {
+   "term": "Summer 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4195.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4202.shtml"
+  },
+  {
+   "term": "Summer 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4205.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4212.shtml"
+  },
+  {
+   "term": "Summer 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R686_4215.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [],
+   "file": "R686_4218.shtml"
+  }
+ ],
  "R690": [
   {
    "term": "Fall 2004-05",
@@ -73,7 +3604,7 @@
   {
    "term": "Fall 2014",
    "instructors": [
-    "WEB Glazewski K"
+    "Glazewski K"
    ],
    "file": "R690_4148.shtml"
   },
@@ -87,7 +3618,7 @@
   {
    "term": "Fall 2015",
    "instructors": [
-    "WEB Ozogul G"
+    "Ozogul G"
    ],
    "file": "R690_4158.shtml"
   },
@@ -101,7 +3632,7 @@
   {
    "term": "Fall 2016",
    "instructors": [
-    "WEB Ozogul G"
+    "Ozogul G"
    ],
    "file": "R690_4168.shtml"
   },
@@ -115,7 +3646,7 @@
   {
    "term": "Fall 2017",
    "instructors": [
-    "WEB Ozogul G"
+    "Ozogul G"
    ],
    "file": "R690_4178.shtml"
   },
@@ -129,7 +3660,7 @@
   {
    "term": "Fall 2018",
    "instructors": [
-    "WEB Ozogul G"
+    "Ozogul G"
    ],
    "file": "R690_4188.shtml"
   },
@@ -143,7 +3674,7 @@
   {
    "term": "Fall 2019",
    "instructors": [
-    "WEB Ozogul G"
+    "Ozogul G"
    ],
    "file": "R690_4198.shtml"
   },
@@ -157,14 +3688,14 @@
   {
    "term": "Fall 2020",
    "instructors": [
-    "WEB Ozogul G"
+    "Ozogul G"
    ],
    "file": "R690_4208.shtml"
   },
   {
    "term": "Spring 2021",
    "instructors": [
-    "WEB Pawan F"
+    "Pawan F"
    ],
    "file": "R690_4212.shtml"
   }
@@ -410,6 +3941,239 @@
    "file": "R695_4218.shtml"
   }
  ],
+ "R699": [
+  {
+   "term": "Fall 2004-05",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4048.html"
+  },
+  {
+   "term": "Spring 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4052.html"
+  },
+  {
+   "term": "Fall 2005",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4058.html"
+  },
+  {
+   "term": "Spring 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4062.html"
+  },
+  {
+   "term": "Fall 2006",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4068.html"
+  },
+  {
+   "term": "Spring 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4072.html"
+  },
+  {
+   "term": "Fall 2007",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4078.html"
+  },
+  {
+   "term": "Spring 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4082.html"
+  },
+  {
+   "term": "Fall 2008",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4088.html"
+  },
+  {
+   "term": "Spring 2009",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R699_4092.html"
+  },
+  {
+   "term": "Fall 2009",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4098.html"
+  },
+  {
+   "term": "Spring 2010",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R699_4102.html"
+  },
+  {
+   "term": "Fall 2010",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R699_4108.html"
+  },
+  {
+   "term": "Spring 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R699_4112.html"
+  },
+  {
+   "term": "Fall 2011",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R699_4118.html"
+  },
+  {
+   "term": "Spring 2012",
+   "instructors": [
+    "Frick T"
+   ],
+   "file": "R699_4122.html"
+  },
+  {
+   "term": "Fall 2013",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4138.shtml"
+  },
+  {
+   "term": "Spring 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4142.shtml"
+  },
+  {
+   "term": "Fall 2014",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4148.shtml"
+  },
+  {
+   "term": "Spring 2015",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4152.shtml"
+  },
+  {
+   "term": "Fall 2015",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4158.shtml"
+  },
+  {
+   "term": "Spring 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4162.shtml"
+  },
+  {
+   "term": "Fall 2016",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4168.shtml"
+  },
+  {
+   "term": "Spring 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4172.shtml"
+  },
+  {
+   "term": "Fall 2017",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4178.shtml"
+  },
+  {
+   "term": "Spring 2018",
+   "instructors": [
+    "Brush T"
+   ],
+   "file": "R699_4182.shtml"
+  },
+  {
+   "term": "Fall 2018",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4188.shtml"
+  },
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4192.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4202.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4212.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Glazewski K"
+   ],
+   "file": "R699_4218.shtml"
+  }
+ ],
  "R711": [
   {
    "term": "Fall 2004-05",
@@ -479,7 +4243,7 @@
    "term": "Fall 2014",
    "instructors": [
     "Glazewski K",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R711_4148.shtml"
   },
@@ -487,7 +4251,7 @@
    "term": "Fall 2015",
    "instructors": [
     "Glazewski K",
-    "WEB Leftwich A"
+    "Leftwich A"
    ],
    "file": "R711_4158.shtml"
   },
@@ -495,7 +4259,7 @@
    "term": "Fall 2016",
    "instructors": [
     "Glazewski K",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R711_4168.shtml"
   },
@@ -503,7 +4267,7 @@
    "term": "Fall 2017",
    "instructors": [
     "Glazewski K",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R711_4178.shtml"
   },
@@ -511,15 +4275,14 @@
    "term": "Fall 2018",
    "instructors": [
     "Glazewski K",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R711_4188.shtml"
   },
   {
    "term": "Fall 2019",
    "instructors": [
-    "Brush T",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R711_4198.shtml"
   },
@@ -527,17 +4290,60 @@
    "term": "Fall 2020",
    "instructors": [
     "Glazewski K",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R711_4208.shtml"
   },
   {
    "term": "Fall 2021",
    "instructors": [
-    "Pawan F",
-    "WEB Pawan F"
+    "Pawan F"
    ],
    "file": "R711_4218.shtml"
+  }
+ ],
+ "R741": [
+  {
+   "term": "Spring 2019",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R741_4192.shtml"
+  },
+  {
+   "term": "Fall 2019",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R741_4198.shtml"
+  },
+  {
+   "term": "Spring 2020",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R741_4202.shtml"
+  },
+  {
+   "term": "Fall 2020",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R741_4208.shtml"
+  },
+  {
+   "term": "Spring 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R741_4212.shtml"
+  },
+  {
+   "term": "Fall 2021",
+   "instructors": [
+    "Boling E"
+   ],
+   "file": "R741_4218.shtml"
   }
  ],
  "R795": [
@@ -572,7 +4378,7 @@
   {
    "term": "Fall 2009",
    "instructors": [
-    "TBA Frick T"
+    "Frick T"
    ],
    "file": "R795_4098.html"
   },
@@ -628,7 +4434,9 @@
   },
   {
    "term": "Summer 2014",
-   "instructors": [],
+   "instructors": [
+    "Brush T"
+   ],
    "file": "R795_4145.shtml"
   },
   {
@@ -643,112 +4451,105 @@
    "term": "Spring 2015",
    "instructors": [
     "Hitchcock J",
-    "WEB Brush T"
+    "Brush T"
    ],
    "file": "R795_4152.shtml"
   },
   {
    "term": "Summer 2015",
-   "instructors": [],
+   "instructors": [
+    "Brush T"
+   ],
    "file": "R795_4155.shtml"
   },
   {
    "term": "Fall 2015",
    "instructors": [
     "Boling E",
-    "WEB Glazewski K"
+    "Glazewski K"
    ],
    "file": "R795_4158.shtml"
   },
   {
    "term": "Spring 2016",
    "instructors": [
-    "Glazewski K",
-    "WEB Glazewski K"
+    "Glazewski K"
    ],
    "file": "R795_4162.shtml"
   },
   {
    "term": "Summer 2016",
-   "instructors": [],
+   "instructors": [
+    "Glazewski K"
+   ],
    "file": "R795_4165.shtml"
   },
   {
    "term": "Fall 2016",
    "instructors": [
-    "Glazewski K",
-    "WEB Glazewski K"
+    "Glazewski K"
    ],
    "file": "R795_4168.shtml"
   },
   {
    "term": "Spring 2017",
    "instructors": [
-    "Glazewski K",
-    "WEB Glazewski K"
+    "Glazewski K"
    ],
    "file": "R795_4172.shtml"
   },
   {
    "term": "Fall 2017",
    "instructors": [
-    "Hitchcock J",
-    "WEB Hitchcock J"
+    "Hitchcock J"
    ],
    "file": "R795_4178.shtml"
   },
   {
    "term": "Spring 2018",
    "instructors": [
-    "Glazewski K",
-    "WEB Glazewski K"
+    "Glazewski K"
    ],
    "file": "R795_4182.shtml"
   },
   {
    "term": "Fall 2018",
    "instructors": [
-    "TBA Leftwich A",
-    "WEB Leftwich A"
+    "Leftwich A"
    ],
    "file": "R795_4188.shtml"
   },
   {
    "term": "Spring 2019",
    "instructors": [
-    "Boling E",
-    "WEB Boling E"
+    "Boling E"
    ],
    "file": "R795_4192.shtml"
   },
   {
    "term": "Fall 2019",
    "instructors": [
-    "Bonk C",
-    "WEB Bonk C"
+    "Bonk C"
    ],
    "file": "R795_4198.shtml"
   },
   {
    "term": "Spring 2020",
    "instructors": [
-    "WEB Boling E",
-    "TBA Boling E"
+    "Boling E"
    ],
    "file": "R795_4202.shtml"
   },
   {
    "term": "Fall 2020",
    "instructors": [
-    "Leftwich A",
-    "WEB Leftwich A"
+    "Leftwich A"
    ],
    "file": "R795_4208.shtml"
   },
   {
    "term": "Spring 2021",
    "instructors": [
-    "WEB Bonk C",
     "Bonk C"
    ],
    "file": "R795_4212.shtml"
@@ -756,8 +4557,7 @@
   {
    "term": "Fall 2021",
    "instructors": [
-    "Leftwich A",
-    "WEB Leftwich A"
+    "Leftwich A"
    ],
    "file": "R795_4218.shtml"
   }
@@ -920,7 +4720,8 @@
   {
    "term": "Summer 2011",
    "instructors": [
-    "Cen Y"
+    "Cen Y",
+    "Wakhungu P"
    ],
    "file": "Y502_4115.html"
   },
@@ -994,7 +4795,9 @@
   },
   {
    "term": "Summer 2015",
-   "instructors": [],
+   "instructors": [
+    "Mc Queen K"
+   ],
    "file": "Y502_4155.shtml"
   },
   {
@@ -1015,13 +4818,14 @@
   },
   {
    "term": "Summer 2016",
-   "instructors": [],
+   "instructors": [
+    "Svetina D"
+   ],
    "file": "Y502_4165.shtml"
   },
   {
    "term": "Fall 2016",
    "instructors": [
-    "BrckaLorenz A",
     "Lorah J",
     "Svetina D"
    ],
@@ -1036,35 +4840,38 @@
   },
   {
    "term": "Summer 2017",
-   "instructors": [],
+   "instructors": [
+    "Svetina D"
+   ],
    "file": "Y502_4175.shtml"
   },
   {
    "term": "Fall 2017",
    "instructors": [
     "Lorah J",
-    "WEB Svetina D"
+    "Svetina D"
    ],
    "file": "Y502_4178.shtml"
   },
   {
    "term": "Spring 2018",
    "instructors": [
-    "Qi W",
-    "BrckaLorenz A"
+    "Qi W"
    ],
    "file": "Y502_4182.shtml"
   },
   {
    "term": "Summer 2018",
-   "instructors": [],
+   "instructors": [
+    "Svetina D"
+   ],
    "file": "Y502_4185.shtml"
   },
   {
    "term": "Fall 2018",
    "instructors": [
-    "WEB Lorah J",
-    "WEB Svetina D"
+    "Lorah J",
+    "Svetina D"
    ],
    "file": "Y502_4188.shtml"
   },
@@ -1077,14 +4884,16 @@
   },
   {
    "term": "Summer 2019",
-   "instructors": [],
+   "instructors": [
+    "Svetina D"
+   ],
    "file": "Y502_4195.shtml"
   },
   {
    "term": "Fall 2019",
    "instructors": [
-    "WEB Lorah J",
-    "WEB Svetina D"
+    "Lorah J",
+    "Svetina D"
    ],
    "file": "Y502_4198.shtml"
   },
@@ -1097,34 +4906,38 @@
   },
   {
    "term": "Summer 2020",
-   "instructors": [],
+   "instructors": [
+    "Svetina D"
+   ],
    "file": "Y502_4205.shtml"
   },
   {
    "term": "Fall 2020",
    "instructors": [
-    "WEB Lorah J",
-    "WEB Svetina D"
+    "Lorah J",
+    "Svetina D"
    ],
    "file": "Y502_4208.shtml"
   },
   {
    "term": "Spring 2021",
    "instructors": [
-    "WEB Rutkowski L"
+    "Rutkowski L"
    ],
    "file": "Y502_4212.shtml"
   },
   {
    "term": "Summer 2021",
-   "instructors": [],
+   "instructors": [
+    "Svetina D"
+   ],
    "file": "Y502_4215.shtml"
   },
   {
    "term": "Fall 2021",
    "instructors": [
-    "WEB Lorah J",
-    "WEB Svetina D"
+    "Lorah J",
+    "Svetina D"
    ],
    "file": "Y502_4218.shtml"
   }
@@ -1153,9 +4966,7 @@
   },
   {
    "term": "Spring 2010",
-   "instructors": [
-    "Datchi-Phillips C"
-   ],
+   "instructors": [],
    "file": "Y521_4102.html"
   },
   {
@@ -1280,22 +5091,22 @@
   {
    "term": "Spring 2020",
    "instructors": [
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y521_4202.shtml"
   },
   {
    "term": "Fall 2020",
    "instructors": [
-    "WEB Carspecken L",
-    "WEB Carspecken P"
+    "Carspecken L",
+    "Carspecken P"
    ],
    "file": "Y521_4208.shtml"
   },
   {
    "term": "Spring 2021",
    "instructors": [
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y521_4212.shtml"
   },
@@ -1303,7 +5114,7 @@
    "term": "Fall 2021",
    "instructors": [
     "Carspecken L",
-    "WEB Carspecken P"
+    "Carspecken P"
    ],
    "file": "Y521_4218.shtml"
   }
@@ -1331,8 +5142,7 @@
    "instructors": [
     "Ziskin M",
     "Schwen T",
-    "Korth B",
-    "TBA Ziskin M"
+    "Korth B"
    ],
    "file": "Y611_4058.html"
   },
@@ -1357,7 +5167,7 @@
    "term": "Spring 2007",
    "instructors": [
     "Korth B",
-    "TBA Flinders D"
+    "Flinders D"
    ],
    "file": "Y611_4072.html"
   },
@@ -1388,7 +5198,7 @@
    "instructors": [
     "Flinders D",
     "Carspecken L",
-    "TBA Ziskin M"
+    "Ziskin M"
    ],
    "file": "Y611_4092.html"
   },
@@ -1396,7 +5206,8 @@
    "term": "Fall 2009",
    "instructors": [
     "Lackey L",
-    "Carspecken L"
+    "Carspecken L",
+    "Helfenbein Jr R"
    ],
    "file": "Y611_4098.html"
   },
@@ -1427,7 +5238,7 @@
    "term": "Fall 2011",
    "instructors": [
     "Carspecken L",
-    "TBA Nguyen T"
+    "Nguyen T"
    ],
    "file": "Y611_4118.html"
   },
@@ -1441,12 +5252,16 @@
   },
   {
    "term": "Summer 2012",
-   "instructors": [],
+   "instructors": [
+    "Carspecken L"
+   ],
    "file": "Y611_4125.html"
   },
   {
    "term": "Summer 2013",
-   "instructors": [],
+   "instructors": [
+    "Carspecken L"
+   ],
    "file": "Y611_4135.shtml"
   },
   {
@@ -1467,7 +5282,10 @@
   },
   {
    "term": "Summer 2014",
-   "instructors": [],
+   "instructors": [
+    "Carspecken L",
+    "Payne E"
+   ],
    "file": "Y611_4145.shtml"
   },
   {
@@ -1480,43 +5298,45 @@
   {
    "term": "Spring 2015",
    "instructors": [
-    "Carspecken L",
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y611_4152.shtml"
   },
   {
    "term": "Summer 2015",
-   "instructors": [],
+   "instructors": [
+    "Dennis B",
+    "Carspecken L"
+   ],
    "file": "Y611_4155.shtml"
   },
   {
    "term": "Fall 2015",
    "instructors": [
-    "Carspecken L",
-    "Call-Cummings M"
+    "Carspecken L"
    ],
    "file": "Y611_4158.shtml"
   },
   {
    "term": "Spring 2016",
    "instructors": [
-    "Call-Cummings M",
     "Flinders D",
-    "WEB Lester J"
+    "Lester J"
    ],
    "file": "Y611_4162.shtml"
   },
   {
    "term": "Summer 2016",
-   "instructors": [],
+   "instructors": [
+    "Dennis B"
+   ],
    "file": "Y611_4165.shtml"
   },
   {
    "term": "Fall 2016",
    "instructors": [
     "Lester J",
-    "WEB Childers S"
+    "Childers S"
    ],
    "file": "Y611_4168.shtml"
   },
@@ -1525,21 +5345,22 @@
    "instructors": [
     "Carspecken L",
     "Flinders D",
-    "WEB Lester J",
-    "WEB Carspecken L"
+    "Lester J"
    ],
    "file": "Y611_4172.shtml"
   },
   {
    "term": "Summer 2017",
-   "instructors": [],
+   "instructors": [
+    "Lester J"
+   ],
    "file": "Y611_4175.shtml"
   },
   {
    "term": "Fall 2017",
    "instructors": [
     "Lester J",
-    "WEB Dennis B"
+    "Dennis B"
    ],
    "file": "Y611_4178.shtml"
   },
@@ -1547,21 +5368,22 @@
    "term": "Spring 2018",
    "instructors": [
     "Flinders D",
-    "WEB Lester J",
-    "WEB Carspecken L"
+    "Lester J",
+    "Carspecken L"
    ],
    "file": "Y611_4182.shtml"
   },
   {
    "term": "Summer 2018",
-   "instructors": [],
+   "instructors": [
+    "Lester J"
+   ],
    "file": "Y611_4185.shtml"
   },
   {
    "term": "Fall 2018",
    "instructors": [
-    "Carspecken L",
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y611_4188.shtml"
   },
@@ -1569,21 +5391,22 @@
    "term": "Spring 2019",
    "instructors": [
     "Flinders D",
-    "WEB Carspecken L",
+    "Carspecken L",
     "Lochmiller C"
    ],
    "file": "Y611_4192.shtml"
   },
   {
    "term": "Summer 2019",
-   "instructors": [],
+   "instructors": [
+    "Lester J"
+   ],
    "file": "Y611_4195.shtml"
   },
   {
    "term": "Fall 2019",
    "instructors": [
-    "Carspecken L",
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y611_4198.shtml"
   },
@@ -1591,32 +5414,36 @@
    "term": "Spring 2020",
    "instructors": [
     "Flinders D",
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y611_4202.shtml"
   },
   {
    "term": "Summer 2020",
-   "instructors": [],
+   "instructors": [
+    "Lester J"
+   ],
    "file": "Y611_4205.shtml"
   },
   {
    "term": "Fall 2020",
    "instructors": [
-    "WEB Lester J"
+    "Lester J"
    ],
    "file": "Y611_4208.shtml"
   },
   {
    "term": "Spring 2021",
    "instructors": [
-    "WEB Carspecken L"
+    "Carspecken L"
    ],
    "file": "Y611_4212.shtml"
   },
   {
    "term": "Summer 2021",
-   "instructors": [],
+   "instructors": [
+    "Lester J"
+   ],
    "file": "Y611_4215.shtml"
   },
   {

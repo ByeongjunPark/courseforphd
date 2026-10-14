@@ -53,7 +53,7 @@
         return el("span", { class: "chip", text: x[0] + " · " + x[1] + "학기" });
       })));
       var rows = i.history.map(function (r) {
-        return el("tr", {}, [el("td", { text: r.term }), el("td", { text: r.names.join(", ") || "—" })]);
+        return el("tr", {}, [el("td", { text: r.term }), el("td", { text: r.names.join(", ") || "(담당자 표기 없음)" })]);
       });
       var tbl = el("table", { class: "hist" }, [
         el("thead", {}, [el("tr", {}, [el("th", { text: "학기" }), el("th", { text: "담당(표기 그대로)" })])]),
