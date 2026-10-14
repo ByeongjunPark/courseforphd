@@ -2044,7 +2044,12 @@ window.CFP_DATA = {
          "descSrc": "Penn State University Bulletin — LDT course descriptions",
          "syllabi": [
           {
-           "label": "공식 샘플 실라버스 (HTML)",
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT527_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt527/001/common/wrapsyllabus"
           },
           {
@@ -2052,7 +2057,7 @@ window.CFP_DATA = {
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt527/001"
           }
          ],
-         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF 파일이 아닌 HTML이며, 담당 교수는 표기돼 있지 않습니다.",
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
          "instructors": {
           "status": "unavailable",
           "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
@@ -2068,7 +2073,12 @@ window.CFP_DATA = {
          "prereq": "Ph.D. 또는 D.Ed. candidacy",
          "syllabi": [
           {
-           "label": "공식 샘플 실라버스 (HTML)",
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT581_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt581/001/common/wrapsyllabus"
           },
           {
@@ -2076,7 +2086,7 @@ window.CFP_DATA = {
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt581/001"
           }
          ],
-         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF 파일이 아닌 HTML이며, 담당 교수는 표기돼 있지 않습니다.",
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
          "instructors": {
           "status": "unavailable",
           "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
@@ -2112,7 +2122,12 @@ window.CFP_DATA = {
          "descSrc": "Penn State University Bulletin — LDT course descriptions",
          "syllabi": [
           {
-           "label": "공식 샘플 실라버스 (HTML)",
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT505_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt505/001/common/wrapsyllabus"
           },
           {
@@ -2120,7 +2135,7 @@ window.CFP_DATA = {
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt505/001"
           }
          ],
-         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF 파일이 아닌 HTML이며, 담당 교수는 표기돼 있지 않습니다.",
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
          "instructors": {
           "status": "unavailable",
           "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
@@ -2135,7 +2150,12 @@ window.CFP_DATA = {
          "descSrc": "Penn State University Bulletin — LDT course descriptions",
          "syllabi": [
           {
-           "label": "공식 샘플 실라버스 (HTML)",
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT550_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt550/001/common/wrapsyllabus"
           },
           {
@@ -2143,7 +2163,7 @@ window.CFP_DATA = {
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt550/001"
           }
          ],
-         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF 파일이 아닌 HTML이며, 담당 교수는 표기돼 있지 않습니다.",
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
          "instructors": {
           "status": "unavailable",
           "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
@@ -2244,7 +2264,12 @@ window.CFP_DATA = {
          "descSrc": "Penn State University Bulletin — LDT course descriptions",
          "syllabi": [
           {
-           "label": "공식 샘플 실라버스 (HTML)",
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT832_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt832/001/common/wrapsyllabus"
           },
           {
@@ -2252,7 +2277,7 @@ window.CFP_DATA = {
            "url": "https://courses.worldcampus.psu.edu/welcome/ldt832/001"
           }
          ],
-         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF 파일이 아닌 HTML이며, 담당 교수는 표기돼 있지 않습니다.",
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
          "instructors": {
           "status": "unavailable",
           "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."

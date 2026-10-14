@@ -91,7 +91,7 @@
 
     b.appendChild(el("h4", { text: "실라버스" }));
     if (c.syllabi && c.syllabi.length) {
-      c.syllabi.forEach(function (s) { b.appendChild(link(s.label, s.url, "btn")); });
+      c.syllabi.forEach(function (s) { b.appendChild(s.local ? el("a", { href: s.url, target: "_blank", class: "btn", text: s.label }) : link(s.label, s.url, "btn")); });
     } else if (c.courseUrl) {
       b.appendChild(link("공식 과목 페이지", c.courseUrl, "btn"));
     }

@@ -314,12 +314,13 @@ def psu(code, title, cr, en, ko, syl_slug=None, note=None, prereq=None):
     if syl_slug:
         base = "https://courses.worldcampus.psu.edu/welcome/%s/001" % syl_slug
         d["syllabi"] = [
-            {"label": "공식 샘플 실라버스 (HTML)", "url": base + "/common/wrapsyllabus"},
+            {"label": "샘플 실라버스 PDF (2026-10-14 저장본)", "url": "syllabi/PSU_%s_sample_syllabus.pdf" % syl_slug.upper(), "local": True},
+            {"label": "원문 HTML (Penn State)", "url": base + "/common/wrapsyllabus"},
             {"label": "강의 개요 페이지", "url": base},
         ]
         d["syllabusNote"] = ("Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 "
                              "'일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. "
-                             "PDF 파일이 아닌 HTML이며, 담당 교수는 표기돼 있지 않습니다.")
+                             "PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.")
     else:
         d["syllabusNote"] = "공개된 공식 실라버스를 찾지 못함."
     d["instructors"] = PSU_NO_INSTR
