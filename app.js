@@ -33,8 +33,97 @@
   }
   function matches(c) {
     if (!state.q) return true;
-    var hay = [c.code, c.title, c.descEn, c.descKo, c.note].join(" ").toLowerCase();
+    var names = (c.instructors && c.instructors.history || []).map(function (r) { return r.names.join(" "); }).join(" ");
+    var hay = [c.code, c.title, c.descEn, c.descKo, c.note, names].join(" ").toLowerCase();
     return state.q.toLowerCase().split(/\s+/).every(function (t) { return hay.indexOf(t) !== -1; });
+  }
+
+
+  // ---- professor index: name -> programs/courses/terms (only from verified records)
+  var TERM_RANK = { Spring: 1, Summer: 2, Fall: 3 };
+  function termKey(t) {
+    var m = /(Spring|Summer|Fall)\s+(\d{4})/.exec(t);
+    return m ? parseInt(m[2], 10) * 10 + TERM_RANK[m[1]] : 0;
+  }
+  var PROF = null;
+  function buildProfIndex() {
+    var idx = {};
+    DATA.programs.forEach(function (p) {
+      var seen = {};
+      p.versions.forEach(function (v) {
+        v.groups.forEach(function (g) {
+          g.courses.forEach(function (c) {
+            if (seen[c.code]) return;
+            seen[c.code] = true;
+            var h = c.instructors && c.instructors.history;
+            if (!h) return;
+            h.forEach(function (r) {
+              r.names.forEach(function (n) {
+                var k = p.id + "|" + n;
+                var e = idx[k] || (idx[k] = { name: n, prog: p, courses: {} });
+                var ce = e.courses[c.code] || (e.courses[c.code] = { code: c.code, title: c.title, terms: [] });
+                ce.terms.push(r.term);
+              });
+            });
+          });
+        });
+      });
+    });
+    return Object.keys(idx).map(function (k) { return idx[k]; });
+  }
+  function profMatches(q) {
+    if (!q) return [];
+    if (!PROF) PROF = buildProfIndex();
+    var terms = q.toLowerCase().split(/\s+/);
+    return PROF.filter(function (e) {
+      var n = e.name.toLowerCase();
+      return terms.every(function (t) { return n.indexOf(t) !== -1; });
+    }).sort(function (a, b) {
+      var ca = Object.keys(a.courses).length, cb = Object.keys(b.courses).length;
+      return cb - ca;
+    }).slice(0, 12);
+  }
+  function rosterMatches(q) {
+    if (!q) return [];
+    var terms = q.toLowerCase().split(/\s+/), out = [];
+    DATA.programs.forEach(function (p) {
+      p.faculty.people.forEach(function (x) {
+        var s = x.toLowerCase();
+        if (terms.every(function (t) { return s.indexOf(t) !== -1; })) out.push({ prog: p, text: x });
+      });
+    });
+    return out;
+  }
+  function profPanel() {
+    var ps = profMatches(state.q), rs = rosterMatches(state.q);
+    if (!ps.length && !rs.length) return null;
+    var box = el("section", { class: "prog profpanel" });
+    box.appendChild(el("h2", { text: "교수 검색 결과" }));
+    box.appendChild(el("p", { class: "src", text: "담당 이력은 공식 기록이 있는 경우만 표시됩니다(현재 IU Course Browser 2004-05~2021). 이름은 기록된 그대로 '성 + 이니셜'이라 이름(first name)으로는 검색되지 않습니다. R 505·586·590·686·699·795처럼 개별지도·인턴십·워크숍 과목은 여러 분반이 개설되어 학기 수가 많게 보일 수 있습니다." }));
+    ps.forEach(function (e) {
+      var list = Object.keys(e.courses).map(function (k) { return e.courses[k]; })
+        .sort(function (a, b) { return b.terms.length - a.terms.length; });
+      var d = el("details", { class: "course", style: "--tc:" + COLORS[e.prog.id], open: "open" });
+      d.appendChild(el("summary", {}, [
+        el("span", { class: "code", text: e.name }),
+        el("span", { class: "ctitle", text: e.prog.short + " · " + list.length + "개 과목" }),
+        el("span", { class: "ccr", text: list.reduce(function (s, c) { return s + c.terms.length; }, 0) + "개 학기 기록" })
+      ]));
+      var b = el("div", { class: "body" });
+      list.forEach(function (c) {
+        var ts = c.terms.slice().sort(function (x, y) { return termKey(x) - termKey(y); });
+        b.appendChild(el("p", {}, [
+          el("b", { text: c.code + " " }), document.createTextNode(c.title),
+          el("br"), el("span", { class: "src", text: ts.length + "학기: " + ts.join(", ") })
+        ]));
+      });
+      d.appendChild(b);
+      box.appendChild(d);
+    });
+    rs.forEach(function (r) {
+      box.appendChild(el("p", { class: "na", text: r.prog.short + " 교수진: " + r.text + " — 과목별 담당 이력은 공개 자료로 확인 불가." }));
+    });
+    return box;
   }
 
   function tally(history) {
@@ -147,6 +236,8 @@
 
     var view = document.getElementById("view");
     view.textContent = "";
+    var pp = profPanel();
+    if (pp) view.appendChild(pp);
     var card = el("article", { class: "prog" });
     card.appendChild(el("h2", { text: p.univ + " — " + p.program }));
     card.appendChild(el("p", { class: "sub", text: p.unit }));
@@ -181,6 +272,10 @@
     view.appendChild(card);
   }
 
+  try {
+    var qp = new URLSearchParams(location.search).get("q");
+    if (qp) { state.q = qp.trim(); document.getElementById("q").value = state.q; }
+  } catch (e) { /* ignore */ }
   document.getElementById("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); render(); });
   window.addEventListener("hashchange", function () {
     var h = location.hash.slice(1);
