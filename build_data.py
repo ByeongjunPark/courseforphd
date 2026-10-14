@@ -444,6 +444,83 @@ psu_prog = {
     ],
 }
 
+# ---- PSU 2019 Doctoral Student Handbook (user-supplied PDF; older edition)
+P19 = "PSU LDT Doctoral Student Handbook, 2019 Edition (2019-07-01 이후 입학생 대상)"
+by_code = {}
+for grp in psu_prog["versions"][0]["groups"]:
+    for cc in grp["courses"]:
+        by_code[cc["code"]] = cc
+
+
+def stub(code, title, cr, note, prereq=None):
+    d = c(code, title, cr, None, None)
+    d["syllabi"] = []
+    d["syllabusNote"] = "공개된 공식 실라버스를 찾지 못함."
+    d["instructors"] = PSU_NO_INSTR
+    d["note"] = note
+    if prereq:
+        d["prereq"] = prereq
+    return d
+
+
+NOT_IN_CAT = "2019 핸드북에 과목명만 기재. 현행 LDT 대학원 과목 카탈로그(500·800단계)에서는 찾지 못해 설명·학점 미확인."
+l566 = psu("LDT 566", "Using Technology to Enhance Learning Process (2019 핸드북 표기: Using computers as learning tools)", 3,
+           None, None, prereq="LDT 415", note="카탈로그에 과목 설명문이 없음(선수과목만 기재).")
+l577 = psu("LDT 577", "Computer Supported Collaborative Learning", 3,
+           "CSCL is an interdisciplinary branch within the Learning Sciences that focuses on the study of social learning processes with and without technology, and the development and evaluation of tools to improve the practice of collective cognition in learning contexts.",
+           "CSCL은 학습과학의 학제적 분야로, 기술 활용 여부와 관계없이 사회적 학습 과정을 연구하고 학습 맥락에서 집단적 인지 실천을 높이는 도구를 개발·평가함. (카탈로그 설명은 이후 내용이 더 이어지나 위 문장까지만 옮김)")
+l597 = psu("LDT 597", "Special Topics", "1–9 (최대 9)",
+           "Formal courses given on a topical or special interest subject which may be offered infrequently.",
+           "특정 주제·관심 분야를 다루는 정규 과목으로, 비정기적으로 개설될 수 있음.")
+l897 = psu("LDT 897", "Special Topics", "1–9 (최대 12)",
+           "Formal courses given on a topical or special interest subject with a professional orientation that may be offered infrequently.",
+           "전문직 지향의 특정 주제·관심 분야를 다루는 정규 과목으로, 비정기적으로 개설될 수 있음.")
+l467 = stub("LDT 467", "Emerging Web Technologies and Learning", "학점 미확인", NOT_IN_CAT)
+l561 = stub("LDT 561", "(2019 핸드북 1학년 과정 안내에만 언급)", "학점 미확인",
+            "1학년 핵심 준비과목 목록(LDT 527, 581, 561, 594, 583)에만 등장. 같은 핸드북의 Course Requirements 목록과 현행 카탈로그에서는 찾지 못함 — 해당 안내문의 오기일 가능성은 확인하지 못함.")
+adt550 = stub("ADTED 550", "Qualitative Research in Adult Education (or equivalent)", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재.")
+adt551 = stub("ADTED 551", "Qualitative Data Analysis", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재.")
+adv = [adt551,
+       stub("EDPSY 505", "Statistical Applications in Educational Research", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재."),
+       stub("EDPSY 506", "Advanced Techniques for Analyzing Educational Experiments", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재."),
+       stub("EDPSY 507", "Multivariate Procedures in Educational Research", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재."),
+       stub("EDPSY 515", "Foundations of Educational Research", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재."),
+       by_code["LDT 544"],
+       stub("STAT 501", "Regression Methods", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재."),
+       stub("STAT 502", "Analysis of Variance and Design of Experiments", "학점 미확인", "타 학과 과목. 2019 핸드북에 과목명만 기재.")]
+prereq19 = [stub("STAT 800 / EDPSY 406", "Intro to Statistics / Applied Statistical Inference for the Behavioral Sciences (or equivalent)", "학점 미확인", "입문 선수과목. 타 학과 과목."),
+            stub("LDT 415", "Systematic Instructional Development (or equivalent)", "학점 미확인", "입문 선수과목. 2019 핸드북에 과목명만 기재.")]
+
+psu_prog["versions"].append({
+    "id": "v2019", "label": "2019 학생 핸드북 (구판·참고)", "source": P19,
+    "summary": [
+        "⚠ 구판입니다. 2019-07-01 이후 입학생용 핸드북으로, 현행(2025-26) Graduate Bulletin과 일부 목록이 다릅니다. 핸드북 스스로 '최신 과목 목록은 Graduate Bulletin 참조'라고 안내합니다. 2025-26 기준은 위 '2025-26 Graduate Bulletin' 탭을 따르세요.",
+        "공통: 박사 핵심 LDT 527·581·583(9학점), LDT 594 9학점, 최소 LDT 30학점(불레틴 문구 그대로 인용), Communication 요건(응용통계 1 + 고급통계 또는 고급 질적분석 1), 풀타임 연속 2학기 거주 요건.",
+        "학위 규모 설명: 역량 기반 학위로 대학원 차원의 최소 학점 없음. 일반적으로 석사 30학점 외에 박사 수준 45–60학점. 학사 이후 총 약 75–90학점(석사 포함)으로 가늠하라고 안내.",
+        "차이 ①: 핸드북의 Core Competency는 12–18학점이며 목록이 LDT 467, 505, 549, 550, 566, 577, 597, 832, 897. 2025-26 불레틴(12학점; LDT 505, 550, 586, 544, 549, 574, 575, 576, 832)과 다름.",
+        "차이 ②: 핸드북에는 'Research Design Requirements (최소 18학점)' 별도 항목(ADTED 550, LDT 574, 575, 576 + 고급 연구과목 2과목 이상)이 있으나, 2025-26 불레틴 페이지에는 이 항목이 없음(통계 Communication 요건만 있음).",
+        "시험·일정: 1–2학년 내 자격시험(LDT 18학점 이수, LDT 594 3학점 이상, 입학 후 풀타임 3학기 이내 권장) → 종합시험(문헌고찰 20–25쪽 + 미니 연구계획서 12–15쪽 + 구술) → 학위논문 계획 → 논문 심사. 2학년 가을 포스터 발표, 3학년 가을 학위논문 구상 발표. 이 부분은 이번 조사에서 2025-26 기준으로 재확인하지 못함.",
+        "종합시험 이후 학위논문 완료까지 LDT 594, 601(풀타임) 또는 611(파트타임)에 지속 등록(여름 제외). LDT 602(Supervised Experience in College Teaching)로 교수 도제 경험 가능.",
+        "논문 위원회: 졸업위원회 최소 4명(LDT 교수 2명 이상, 타 학과 1명 이상 포함).",
+    ],
+    "groups": [
+        {"title": "입문 선수과목 (Prerequisites)", "credits": "", "courses": prereq19},
+        {"title": "LDT Doctoral Core (모두 필수)", "credits": "9", "courses": [by_code["LDT 527"], by_code["LDT 581"], by_code["LDT 583"]]},
+        {"title": "LDT Core Competency (아래에서 선택)", "credits": "12–18",
+         "note": "2019 핸드북 목록. 2025-26 불레틴과 구성이 다름(차이 ① 참조). 1학년 과정 안내에는 LDT 561도 언급되나 요건 목록에는 없음.",
+         "courses": [l467, by_code["LDT 505"], by_code["LDT 549"], by_code["LDT 550"], l566, l577, l597, by_code["LDT 832"], l897, l561]},
+        {"title": "Research Design Requirements — 필수 방법론", "credits": "18 이상 (아래 필수 4과목 + 고급 연구과목 2과목 이상)",
+         "note": "ADTED 550(또는 동등), LDT 574, LDT 575(EDPSY 475로 대체 가능), LDT 576.",
+         "courses": [adt550, by_code["LDT 574"], by_code["LDT 575"], by_code["LDT 576"]]},
+        {"title": "Research Design Requirements — 고급 연구과목 (2과목 이상 택)", "credits": "",
+         "note": "정량 지향: EDPSY 406→505→506→507 계열(HLM·IRT·SEM의 기초). 질적 지향: ADTED 550, LDT 576, ADTED 551 또는 LDT 544 계열(핸드북 권고).",
+         "courses": adv},
+        {"title": "Research", "credits": "9", "courses": [by_code["LDT 594"]]},
+    ],
+})
+psu_prog["sources"].append(("PSU LDT Doctoral Student Handbook 2019 Edition (PDF)", "https://ed.psu.edu/sites/default/files/2020-03/LDT_PHDHandbook_Aug2019.pdf"))
+psu_prog["pdfs"].insert(0, ("PSU LDT Doctoral Student Handbook 2019 Edition (구판)", "https://ed.psu.edu/sites/default/files/2020-03/LDT_PHDHandbook_Aug2019.pdf"))
+
 data = {
     "asOf": "2026-10-14",
     "programs": [fsu, iu, psu_prog],

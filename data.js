@@ -5983,6 +5983,529 @@ window.CFP_DATA = {
        ]
       }
      ]
+    },
+    {
+     "id": "v2019",
+     "label": "2019 학생 핸드북 (구판·참고)",
+     "source": "PSU LDT Doctoral Student Handbook, 2019 Edition (2019-07-01 이후 입학생 대상)",
+     "summary": [
+      "⚠ 구판입니다. 2019-07-01 이후 입학생용 핸드북으로, 현행(2025-26) Graduate Bulletin과 일부 목록이 다릅니다. 핸드북 스스로 '최신 과목 목록은 Graduate Bulletin 참조'라고 안내합니다. 2025-26 기준은 위 '2025-26 Graduate Bulletin' 탭을 따르세요.",
+      "공통: 박사 핵심 LDT 527·581·583(9학점), LDT 594 9학점, 최소 LDT 30학점(불레틴 문구 그대로 인용), Communication 요건(응용통계 1 + 고급통계 또는 고급 질적분석 1), 풀타임 연속 2학기 거주 요건.",
+      "학위 규모 설명: 역량 기반 학위로 대학원 차원의 최소 학점 없음. 일반적으로 석사 30학점 외에 박사 수준 45–60학점. 학사 이후 총 약 75–90학점(석사 포함)으로 가늠하라고 안내.",
+      "차이 ①: 핸드북의 Core Competency는 12–18학점이며 목록이 LDT 467, 505, 549, 550, 566, 577, 597, 832, 897. 2025-26 불레틴(12학점; LDT 505, 550, 586, 544, 549, 574, 575, 576, 832)과 다름.",
+      "차이 ②: 핸드북에는 'Research Design Requirements (최소 18학점)' 별도 항목(ADTED 550, LDT 574, 575, 576 + 고급 연구과목 2과목 이상)이 있으나, 2025-26 불레틴 페이지에는 이 항목이 없음(통계 Communication 요건만 있음).",
+      "시험·일정: 1–2학년 내 자격시험(LDT 18학점 이수, LDT 594 3학점 이상, 입학 후 풀타임 3학기 이내 권장) → 종합시험(문헌고찰 20–25쪽 + 미니 연구계획서 12–15쪽 + 구술) → 학위논문 계획 → 논문 심사. 2학년 가을 포스터 발표, 3학년 가을 학위논문 구상 발표. 이 부분은 이번 조사에서 2025-26 기준으로 재확인하지 못함.",
+      "종합시험 이후 학위논문 완료까지 LDT 594, 601(풀타임) 또는 611(파트타임)에 지속 등록(여름 제외). LDT 602(Supervised Experience in College Teaching)로 교수 도제 경험 가능.",
+      "논문 위원회: 졸업위원회 최소 4명(LDT 교수 2명 이상, 타 학과 1명 이상 포함)."
+     ],
+     "groups": [
+      {
+       "title": "입문 선수과목 (Prerequisites)",
+       "credits": "",
+       "courses": [
+        {
+         "code": "STAT 800 / EDPSY 406",
+         "title": "Intro to Statistics / Applied Statistical Inference for the Behavioral Sciences (or equivalent)",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "입문 선수과목. 타 학과 과목."
+        },
+        {
+         "code": "LDT 415",
+         "title": "Systematic Instructional Development (or equivalent)",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "입문 선수과목. 2019 핸드북에 과목명만 기재."
+        }
+       ]
+      },
+      {
+       "title": "LDT Doctoral Core (모두 필수)",
+       "credits": "9",
+       "courses": [
+        {
+         "code": "LDT 527",
+         "title": "Designing Constructivist Learning Environments",
+         "cr": 3,
+         "descEn": "Designing learning environments based on constructivist principles of learning that provide modeling, coaching, and scaffolding.",
+         "descKo": "모델링·코칭·스캐폴딩을 제공하는 구성주의 학습 원리 기반 학습환경 설계.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [
+          {
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT527_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt527/001/common/wrapsyllabus"
+          },
+          {
+           "label": "강의 개요 페이지",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt527/001"
+          }
+         ],
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 581",
+         "title": "Theoretical Foundations of Learning, Design, and Technology",
+         "cr": 3,
+         "descEn": "Analysis of theoretical foundations of the instructional systems (systems and cybernetics, communications, cognitive psychology, sociological, constructivist, ecological) for doctoral students.",
+         "descKo": "교수체제의 이론적 토대(체제·사이버네틱스, 커뮤니케이션, 인지심리, 사회학적, 구성주의, 생태학적 관점) 분석. 박사과정생 대상.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "prereq": "Ph.D. 또는 D.Ed. candidacy",
+         "syllabi": [
+          {
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT581_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt581/001/common/wrapsyllabus"
+          },
+          {
+           "label": "강의 개요 페이지",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt581/001"
+          }
+         ],
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 583",
+         "title": "Survey of Research in Learning Sciences and Technology",
+         "cr": 3,
+         "descEn": "Analysis and evaluation of research in domains of learning sciences and technology. Reviews the empirical research literature from the Learning Sciences and Technology fields. (Cross-listed with SCIED 583.)",
+         "descKo": "학습과학·기술 분야 연구의 분석과 평가. 학습과학·기술 분야의 경험적 연구 문헌을 검토. (SCIED 583과 교차개설)",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        }
+       ]
+      },
+      {
+       "title": "LDT Core Competency (아래에서 선택)",
+       "credits": "12–18",
+       "note": "2019 핸드북 목록. 2025-26 불레틴과 구성이 다름(차이 ① 참조). 1학년 과정 안내에는 LDT 561도 언급되나 요건 목록에는 없음.",
+       "courses": [
+        {
+         "code": "LDT 467",
+         "title": "Emerging Web Technologies and Learning",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "2019 핸드북에 과목명만 기재. 현행 LDT 대학원 과목 카탈로그(500·800단계)에서는 찾지 못해 설명·학점 미확인."
+        },
+        {
+         "code": "LDT 505",
+         "title": "Integrating Mobile Technologies into Learning Environments",
+         "cr": 3,
+         "descEn": "Research on learning with mobile computers and models for mobile computer integration for K-12 schools, community organizations, and universities.",
+         "descKo": "모바일 컴퓨터를 활용한 학습 연구와 K-12 학교·지역 기관·대학에서의 모바일 통합 모형.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [
+          {
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT505_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt505/001/common/wrapsyllabus"
+          },
+          {
+           "label": "강의 개요 페이지",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt505/001"
+          }
+         ],
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 549",
+         "title": "Current Topics in Emerging Technologies",
+         "cr": 3,
+         "descEn": "An in-depth seminar on the instructional and training design implications of specific new technologies as they emerge.",
+         "descKo": "새로 등장하는 특정 기술이 교수·훈련 설계에 주는 함의를 심층 다루는 세미나.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 550",
+         "title": "Learning Design Studio",
+         "cr": "3 (최대 12)",
+         "descEn": "Examines a range of skills, processes, and theories for designing and developing interactive educational materials.",
+         "descKo": "상호작용적 교육 자료를 설계·개발하기 위한 다양한 기술·과정·이론을 탐구.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [
+          {
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT550_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt550/001/common/wrapsyllabus"
+          },
+          {
+           "label": "강의 개요 페이지",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt550/001"
+          }
+         ],
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 566",
+         "title": "Using Technology to Enhance Learning Process (2019 핸드북 표기: Using computers as learning tools)",
+         "cr": 3,
+         "descEn": null,
+         "descKo": null,
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "prereq": "LDT 415",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "카탈로그에 과목 설명문이 없음(선수과목만 기재)."
+        },
+        {
+         "code": "LDT 577",
+         "title": "Computer Supported Collaborative Learning",
+         "cr": 3,
+         "descEn": "CSCL is an interdisciplinary branch within the Learning Sciences that focuses on the study of social learning processes with and without technology, and the development and evaluation of tools to improve the practice of collective cognition in learning contexts.",
+         "descKo": "CSCL은 학습과학의 학제적 분야로, 기술 활용 여부와 관계없이 사회적 학습 과정을 연구하고 학습 맥락에서 집단적 인지 실천을 높이는 도구를 개발·평가함. (카탈로그 설명은 이후 내용이 더 이어지나 위 문장까지만 옮김)",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 597",
+         "title": "Special Topics",
+         "cr": "1–9 (최대 9)",
+         "descEn": "Formal courses given on a topical or special interest subject which may be offered infrequently.",
+         "descKo": "특정 주제·관심 분야를 다루는 정규 과목으로, 비정기적으로 개설될 수 있음.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 832",
+         "title": "Designing e-learning Within Course Management Systems",
+         "cr": 3,
+         "descEn": "Practical design of instructor-facilitated online lessons taking advantage of the affordances and within the constraints of course management systems.",
+         "descKo": "교수자 촉진형 온라인 수업을 학습관리시스템의 특성과 제약 안에서 실제로 설계.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [
+          {
+           "label": "샘플 실라버스 PDF (2026-10-14 저장본)",
+           "url": "syllabi/PSU_LDT832_sample_syllabus.pdf",
+           "local": true
+          },
+          {
+           "label": "원문 HTML (Penn State)",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt832/001/common/wrapsyllabus"
+          },
+          {
+           "label": "강의 개요 페이지",
+           "url": "https://courses.worldcampus.psu.edu/welcome/ldt832/001"
+          }
+         ],
+         "syllabusNote": "Penn State World Campus가 공개한 대표(예시) 실라버스입니다. 페이지 자체가 '일정·과제·자료는 예시이며 확정본은 개강 3–4주 전 온라인 카탈로그 확인'이라고 명시합니다. PDF는 원문 HTML 페이지를 2026-10-14에 그대로 인쇄 저장한 사본이며(저작권은 Penn State), 담당 교수는 표기돼 있지 않습니다.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 897",
+         "title": "Special Topics",
+         "cr": "1–9 (최대 12)",
+         "descEn": "Formal courses given on a topical or special interest subject with a professional orientation that may be offered infrequently.",
+         "descKo": "전문직 지향의 특정 주제·관심 분야를 다루는 정규 과목으로, 비정기적으로 개설될 수 있음.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 561",
+         "title": "(2019 핸드북 1학년 과정 안내에만 언급)",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "1학년 핵심 준비과목 목록(LDT 527, 581, 561, 594, 583)에만 등장. 같은 핸드북의 Course Requirements 목록과 현행 카탈로그에서는 찾지 못함 — 해당 안내문의 오기일 가능성은 확인하지 못함."
+        }
+       ]
+      },
+      {
+       "title": "Research Design Requirements — 필수 방법론",
+       "credits": "18 이상 (아래 필수 4과목 + 고급 연구과목 2과목 이상)",
+       "note": "ADTED 550(또는 동등), LDT 574, LDT 575(EDPSY 475로 대체 가능), LDT 576.",
+       "courses": [
+        {
+         "code": "ADTED 550",
+         "title": "Qualitative Research in Adult Education (or equivalent)",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "LDT 574",
+         "title": "Applied Qualitative Research for Work Practice, Innovation, and Systems Design",
+         "cr": 3,
+         "descEn": "Investigates qualitative research paradigms and methodologies; develops skills in use of ethnographic methods in work practice, innovation and systems design.",
+         "descKo": "질적연구 패러다임과 방법론을 탐구하고, 업무 실천·혁신·시스템 설계에서의 민족지적 방법 활용 기술을 기름.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "prereq": "ADTED 550",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 575",
+         "title": "Designing Experimental Research in Learning, Design, and Technology",
+         "cr": 3,
+         "descEn": "Designing research studies in Learning, Design, and Technology of a quantitative and experimental nature, which results in a research proposal.",
+         "descKo": "학습·설계·기술 분야의 양적·실험적 연구를 설계하고 그 결과로 연구계획서를 작성.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "LDT 576",
+         "title": "Design-based Research Methods, Applications for Educational Research",
+         "cr": 3,
+         "descEn": "The course focuses on design-based research methods in education.",
+         "descKo": "교육 분야 설계기반연구(design-based research) 방법에 초점.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        }
+       ]
+      },
+      {
+       "title": "Research Design Requirements — 고급 연구과목 (2과목 이상 택)",
+       "credits": "",
+       "note": "정량 지향: EDPSY 406→505→506→507 계열(HLM·IRT·SEM의 기초). 질적 지향: ADTED 550, LDT 576, ADTED 551 또는 LDT 544 계열(핸드북 권고).",
+       "courses": [
+        {
+         "code": "ADTED 551",
+         "title": "Qualitative Data Analysis",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "EDPSY 505",
+         "title": "Statistical Applications in Educational Research",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "EDPSY 506",
+         "title": "Advanced Techniques for Analyzing Educational Experiments",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "EDPSY 507",
+         "title": "Multivariate Procedures in Educational Research",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "EDPSY 515",
+         "title": "Foundations of Educational Research",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "LDT 544",
+         "title": "Video for Instruction, Training, and Research",
+         "cr": 3,
+         "descEn": "Theory, design models, and methodologies supporting the use of video in a variety of learning environments.",
+         "descKo": "다양한 학습환경에서 비디오를 활용하기 위한 이론·설계 모형·방법론.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "prereq": "INSYS 447",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        },
+        {
+         "code": "STAT 501",
+         "title": "Regression Methods",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        },
+        {
+         "code": "STAT 502",
+         "title": "Analysis of Variance and Design of Experiments",
+         "cr": "학점 미확인",
+         "descEn": null,
+         "descKo": null,
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         },
+         "note": "타 학과 과목. 2019 핸드북에 과목명만 기재."
+        }
+       ]
+      },
+      {
+       "title": "Research",
+       "credits": "9",
+       "courses": [
+        {
+         "code": "LDT 594",
+         "title": "Research Topics",
+         "cr": "1–18 (박사: 9학점 필수)",
+         "descEn": "Supervised student activities on research projects identified on an individual or small group basis.",
+         "descKo": "개인 또는 소집단 단위로 정한 연구 프로젝트를 지도받아 수행하는 활동.",
+         "descSrc": "Penn State University Bulletin — LDT course descriptions",
+         "syllabi": [],
+         "syllabusNote": "공개된 공식 실라버스를 찾지 못함.",
+         "instructors": {
+          "status": "unavailable",
+          "note": "학기별 담당 교수 이력은 공식 공개 자료에서 확인하지 못함(Penn State Schedule of Courses/프로그램 오피스 문의 필요). LDT 교수진 명단은 아래 참조."
+         }
+        }
+       ]
+      }
+     ]
     }
    ],
    "faculty": {
@@ -6028,9 +6551,17 @@ window.CFP_DATA = {
     [
      "Penn State LDT Ph.D. 안내",
      "https://ed.psu.edu/phd-degree-learning-design-and-technology"
+    ],
+    [
+     "PSU LDT Doctoral Student Handbook 2019 Edition (PDF)",
+     "https://ed.psu.edu/sites/default/files/2020-03/LDT_PHDHandbook_Aug2019.pdf"
     ]
    ],
    "pdfs": [
+    [
+     "PSU LDT Doctoral Student Handbook 2019 Edition (구판)",
+     "https://ed.psu.edu/sites/default/files/2020-03/LDT_PHDHandbook_Aug2019.pdf"
+    ],
     [
      "LDT 과목 설명 PDF (University Bulletin)",
      "https://bulletins.psu.edu/university-course-descriptions/graduate/ldt/ldt.pdf"

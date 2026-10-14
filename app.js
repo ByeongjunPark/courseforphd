@@ -74,7 +74,7 @@
     d.appendChild(el("summary", {}, [
       el("span", { class: "code", text: c.code }),
       el("span", { class: "ctitle", text: c.title }),
-      el("span", { class: "ccr", text: c.cr + "학점" })
+      el("span", { class: "ccr", text: /\d/.test(String(c.cr)) ? c.cr + "학점" : c.cr })
     ]));
     var b = el("div", { class: "body" });
 
