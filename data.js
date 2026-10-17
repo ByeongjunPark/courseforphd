@@ -289,6 +289,32 @@ window.CFP_DATA = {
        "note": "특정 과목번호 지정 없음. 지도교수·위원회와 구성.",
        "courses": []
       }
+     ],
+     "glance": [
+      [
+       "총 이수",
+       "81학점"
+      ],
+      [
+       "Systems Foundations",
+       "15"
+      ],
+      [
+       "Research Foundations",
+       "9–13"
+      ],
+      [
+       "Inquiry Core",
+       "18–27"
+      ],
+      [
+       "Focus Area",
+       "≥ 9"
+      ],
+      [
+       "Dissertation",
+       "≥ 24"
+      ]
      ]
     },
     {
@@ -528,6 +554,32 @@ window.CFP_DATA = {
        "credits": "Focus 최소 9 · Dissertation 최소 24",
        "courses": []
       }
+     ],
+     "glance": [
+      [
+       "총 이수",
+       "81학점"
+      ],
+      [
+       "Systems Foundations",
+       "15"
+      ],
+      [
+       "Research Foundations",
+       "6–10"
+      ],
+      [
+       "Inquiry Core",
+       "18–24"
+      ],
+      [
+       "Focus Area",
+       "≥ 9"
+      ],
+      [
+       "Dissertation",
+       "≥ 24"
+      ]
      ]
     }
    ],
@@ -5651,6 +5703,36 @@ window.CFP_DATA = {
         }
        ]
       }
+     ],
+     "glance": [
+      [
+       "총 이수",
+       "90학점"
+      ],
+      [
+       "Major(IST)",
+       "42"
+      ],
+      [
+       "Inquiry",
+       "9"
+      ],
+      [
+       "Minor",
+       "12"
+      ],
+      [
+       "Foundation",
+       "6"
+      ],
+      [
+       "Elective",
+       "6"
+      ],
+      [
+       "Dissertation",
+       "15"
+      ]
      ]
     }
    ],
@@ -5982,6 +6064,24 @@ window.CFP_DATA = {
         }
        ]
       }
+     ],
+     "glance": [
+      [
+       "LDT 최소",
+       "30학점"
+      ],
+      [
+       "Doctoral Core",
+       "9"
+      ],
+      [
+       "Competency",
+       "12"
+      ],
+      [
+       "LDT 594",
+       "9"
+      ]
      ]
     },
     {
@@ -6505,6 +6605,28 @@ window.CFP_DATA = {
         }
        ]
       }
+     ],
+     "glance": [
+      [
+       "LDT 최소",
+       "30학점"
+      ],
+      [
+       "Doctoral Core",
+       "9"
+      ],
+      [
+       "Competency",
+       "12–18"
+      ],
+      [
+       "Research Design",
+       "≥ 18"
+      ],
+      [
+       "LDT 594",
+       "9"
+      ]
      ]
     }
    ],

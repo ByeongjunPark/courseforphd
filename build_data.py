@@ -526,6 +526,18 @@ data = {
     "programs": [fsu, iu, psu_prog],
 }
 
+# ---- at-a-glance numbers (all taken from the version summaries above)
+GLANCE = {
+    ("fsu", "v26"): [("총 이수", "81학점"), ("Systems Foundations", "15"), ("Research Foundations", "9–13"), ("Inquiry Core", "18–27"), ("Focus Area", "≥ 9"), ("Dissertation", "≥ 24")],
+    ("fsu", "v24"): [("총 이수", "81학점"), ("Systems Foundations", "15"), ("Research Foundations", "6–10"), ("Inquiry Core", "18–24"), ("Focus Area", "≥ 9"), ("Dissertation", "≥ 24")],
+    ("iu", "v2526"): [("총 이수", "90학점"), ("Major(IST)", "42"), ("Inquiry", "9"), ("Minor", "12"), ("Foundation", "6"), ("Elective", "6"), ("Dissertation", "15")],
+    ("psu", "v2526"): [("LDT 최소", "30학점"), ("Doctoral Core", "9"), ("Competency", "12"), ("LDT 594", "9")],
+    ("psu", "v2019"): [("LDT 최소", "30학점"), ("Doctoral Core", "9"), ("Competency", "12–18"), ("Research Design", "≥ 18"), ("LDT 594", "9")],
+}
+for _p in data["programs"]:
+    for _v in _p["versions"]:
+        _v["glance"] = GLANCE.get((_p["id"], _v["id"]), [])
+
 with io.open(OUT, "w", encoding="utf-8") as f:
     f.write("window.CFP_DATA = " + json.dumps(data, ensure_ascii=False, indent=1) + ";\n")
 print("wrote", OUT)
